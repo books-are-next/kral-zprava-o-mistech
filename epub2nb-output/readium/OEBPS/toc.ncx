@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Zpráva o místech</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Jako každé šetření…</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_008.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_009.xhtml#_idParaDest-2"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1/ Cesta ven</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_010.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2/ Residence</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_011.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3/ Území</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_012.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4/ Panství</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_013.xhtml#_idParaDest-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_014.xhtml#_idParaDest-7"/>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>5/ Tajná Plzeň…</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_015.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>6/ …čili cesta kolem ničeho</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_016.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7/ Do Ameriky</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_017.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8/ O skrytém životě maket</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_018.xhtml#_idParaDest-11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_019.xhtml#_idParaDest-12"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>9/ Místa bez kontur</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_021.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>10/ Paříž</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_022.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>11/ Vyjet</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_023.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>12/ Fasáda</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_024.xhtml#_idParaDest-16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>P. S.</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_025.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>DOKUMENTY</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_026.xhtml#_idParaDest-18"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Návštěva v rue Montmartre</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_029.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Sen z 30. dubna</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_030.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Rue Montmartre po roce</text>
+        </navLabel>
+        <content src="Text/zprava_o_mistech_031.xhtml#_idParaDest-21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/zprava_o_mistech_032.xhtml#_idParaDest-22"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,40 @@
+---
+title: 1/ Cesta ven
+contentType: prose
+---
+
+  
+
+V dětství se místa zdála dána jednou provždy, nezaměnitelná a definitivní. K tomu, abychom jim byli právi, mělo jaksi stačit naučit se je užívat; získat jejich důvěru a uchovat si ji. Zatímco fasádu vily uspávaly vlny léta, dotírající na pískovou omítku, zkoumal ji zevnitř ve snaze objevit její skryté mízy a tajné dráhy uvnitř zdí, kde obíhaly.
+
+V patře se o jeho zvědavost přetahovaly dvě sousední místnosti. Matčin snivý, ale jasný budoár, kam okny – málokdy zataženými – vnikaly záblesky denního světla a vlhčily bílý porcelán sošek rozestavených po dlouhé komodě; trojdílné zrcadlo toaletního stolku, který stál v rohu, ty signály ještě násobilo a odráželo zpátky k nebi. Vedlejší pánský pokoj byl patřičně mužský, jeho temnější, dřevem vyložený interiér působil bezpečněji, ale také odtažitěji. Zasklené dveře na balkon, bílé a naškrobené, jakoby z pavučin utkané záclony, v nichž stávalo měsíční světlo jako mléčná mlha. Vpravo od vchodu na balkon lampa a vedle ní velký tmavohnědý ušák, vévodící přívětivému kuřáckému zákoutí. Opuštěný trůn, který tu po otcově odchodu napříště vládl sám.
+
+Během těch odpolední, kdy ho nikdo nehlídal a která náhle ztrácela hranice i kontury, stačilo hrdinovi tiše otevřít dveře a vklouznout dovnitř; pokoj teď plul kdesi daleko, mimo přítomnost, sluncem prozářené ticho, které mu stoupalo k ústům, dostávalo palčivě svatokrádežnou příchuť. K tomu, aby na jeho výzvu odpověděl, musel napřed vyrůst, přilnout k vlně času, který v sobě cítil dozrávat. Až jednou, zabořen mezi opěradla, se v náručí ušáku dopustí prvního chvatného hříchu. Zbývá se ptát, čí svátost tak znesvětil a čí autoritě se vzepřel. Večer teď v křesle trůnila matka, usedala do něj i po tom, co roli nepřítomného otce převzal jiný muž, doktor.
+
+Překvapivě zato opomíjela křeslo ve své ložnici, štíhlejší a pokryté lesklým bílým potahem, který se lepil na kůži jako mucholapka. Na sedadle trvale hnízdil roj barevných polštářů, jako hebké opevnění, které křeslo předem chránilo a vylučovalo ze hry. Čas od času se přitom nezdráhal přijít polštářky sesbírat a z ložnice – aniž se v ní zdržel – je odnést: potřeboval je pro svá doupata, zvláštní „domy v domě“, které si náruživě budoval hned v koutě, hned pod piánem nebo pod stolem, kam snesl všemožné podušky a matrace. Když úkryt dostavěl, ulehl do něj a jenom v něm nehybně prodlíval, jako zahálčivý vladař.
+
+I to byl přitom druh zneuctění, pokus o vzpouru a porušení zákona. Týž, jehož se dopouštěl, když unikal do tmy sklepa nebo na půdu, do té velké, zaprášené chladírny, v jejímž ztuhlém tichu nasakovaly prachem staré prádelníky a nepotřebné poličky, lampy bez žárovek a zašedlý proutěný stojan plný časopisů se slepenými listy. Podobné vagonům odstaveným na vedlejší kolej a zapouštějícím tu pomalu kořeny mezi kopřivami a bodláčím, vytvořily vyřazené kusy nábytku na půdě jakousi paralelní scénu: omšelý, ale prostorný a zařízený byt pro neviditelné nájemníky. Právě to ho taky k půdě přitahovalo; prodlívat tu mezi starým nábytkem – vzdor chladnu, které ho tlačilo zpátky ven – znamenalo totéž, co obklopit se polštářky vprostřed jídelny: odsunout běžné prostory domu do pozadí a nahradit je místem, kde byl sám jediným pánem. Kde se takříkajíc mohl skrýt před samotnou důvěrností vily a chránit se před ochranou, kterou mu poskytovala.
+
+Navíc úlevně vyvazoval věci z navyklých rolí. Když zacházel s půdou jako s obydlím a používal piáno nebo stůl jako přístřešek, nutil věci překreslit své kontury a změnit svou identitu, na způsob hole, z níž vyjede nečekaně nůž nebo deštník. Přestože si půjčoval polštářky od matky, doupata, která z nich stavěl, mu neměla umožnit jen návrat do sluje jejího břicha; také se v nich chtěl co nejvíc vzdálit domu, nad nímž matka vládla.
+
+\* \* \*
+
+  
+
+Zvedal rovněž zkoumavý pohled k domům v sousedství, hlavně k tomu, který stál za drátěným plotem vlevo od vily a od buksusy lemovaného chodníčku, jenž k ní vedl. Hranatá stavba s plochou střechou pro něj měla zvláštní eleganci, která vile osudně chyběla; vyplouvala z keřů jako pozemní ponorka, kulaté okno s matným sklem, obrácené k nim do zahrady, bylo plné mlčenlivé vyzývavosti. Bylo by stačilo narodit se tam, na druhé straně plotu, aby pochopil svět a poznal skutečné dobrodružství?
+
+Jen prostory, které dům skrýval a kam občas nahlédl, když přišel vyřídit vzkaz jeho starým majitelům – stejně tajemně zamlklým jako dům –, mu rozhodně připadaly _pravé_ a opravdu hodné obývání. Pouze tam, v bludišti důmyslně zřetězených místností a pokojů, tajných chodeb a schodišť spojujících bůhvíjak zasklený salon s patrem, s neznámými kabinety, které tam tušil, a s rozlehlou terasou na střeše – pouze tam by mohl a dovedl plně žít. Kdo ví, snad se tam jeho pravý život už odvíjel; zbývalo čekat, až mu dá znamení, nechá po zřítelnici okna sjet náhlý záblesk a vyzve ho, aby se s ním spojil.
+
+Měnil se v pátrače. Usedal na zahradě a vysílal pohled k jejím nejztracenějším koutům, k ubohému proutí lemujícímu osudný plot nebo k spletencům šlahounů a listí v rozích s vyschlou, jakoby osiřelou hlínou. Odevšad, zdálo se mu, mohl přijít rozhodující signál, všude se mohlo skrývat to pravé, tak postrádané místo, za nějž mu důvěrná scéna vily podsouvala nanejvýš bledou skicu. Zatímco zahrada odpovídala jen mlčením, hledal si v ní aspoň další stanoviště. Hned do ní shlížel z obrostlého kamenného sloupku, obklopen listím jako zelenou aureolou, hned slézal do propadla s přívodem vody, vonícího sklepem a čerstvou zemí, a zvedal odtud hlavu k matoucímu bzučení rozkvetlých, na slunci škvířících keřů. Už to byl způsob, jak trochu nahlédnout světu pod sukně… Zahrada nakonec v jeho očích tvořila jediné pletivo skrýší; také holý trávník nebo pustina betonových chodníčků se pod vrstvou společného ticha neviditelně dělily na další parcely, území jiných možných úkrytů.
+
+Když si jednou s přítelkyní ze sousedství hraje na schovávanou, zahlédne ji skrčenou za laťkovou lavičkou v hloubi zahrady; aniž co řekne, sebere tlusté poleno, dojde až k lavičce a hodí špalek holčičce na hlavu. Potrestal ji tenkrát – navíc k nejasné touze, kterou v něm budila – i za to, že mu odhalila prázdno zahrady a nemožnost se v ní opravdu schovat?
+
+\* \* \*
+
+  
+
+I příroda dostávala smysl hlavně dík pokojům a místnostem, které skrývala a které v ní byl jaksi schopen objevit jedním pohledem. Při povinných nedělních vyjížďkách se zatvrzele upínal jen k lesíkům a loučkám, které lemovaly silnici a kde se mu každý trochu přitažlivý kout, každá větev skloněná trochu naléhavěji nad svůj stín v trávě, zdály označovat práh hledaného útulku.
+
+S odstupem let uvidí celé své dětství jako jedno dlouhé letní odpoledne, kde vzdor vedru nepřestává obcházet kolem vily a otírat se o její horké pískové stěny. Když ukončí jeden okruh, začne bez prodlení další, dál sleduje stopu zahradní hadice, která se klikatí na rozpáleném betonu a obtáčí podezdívku domu černou vlnovkou. Marně však vyhlíží její konec; ať sebevíc zrychluje krok, hadice se plynule vine podél zdí jako had, který hryže vlastní ocas. Přesto zatvrzele pokračuje v chůzi, jako by hledal zároveň nemožný východ a nenalezitelný vchod: spásnou skulinu v horkem ztěžklém vzduchu, kudy by unikl ze známého světa, a trhlinu v zemi nebo v průčelí, kterou by vklouzl hloub do skutečnosti a vnikl do její intimity, pěkně pod kůži.
+
+Občas, když na celý večer zůstal ve vile sám, se jistě radoval, že má pro sebe vlastní kus noční tmy; zatímco prostor se plnil jen tepem v jeho žilách, musel jej však znovu vyklidit pod tlakem strachu. Opatrně za sebou zavíral dveře a stahoval se z místnosti do místnosti, až se nakonec octl v koupelně, tváří v tvář zrcadlu. Všechno tajemství tu bezpochyby uvízlo s ním, náhle přistižené v té _druhé_ koupelně, kterou viděl vyvstávat za dvojníkem v zrcadle a v hloubi jeho zorniček. Zůstávalo ale mimo dosah, když k němu chtěl proniknout, tloukl jen hlavou do skla. Ani odtud nevedla cesta dál, důvěrný prostor okolo byl nová klec.
