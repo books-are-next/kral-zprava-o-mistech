@@ -3,8 +3,6 @@ title: 1/ Cesta ven
 contentType: prose
 ---
 
-  
-
 V dětství se místa zdála dána jednou provždy, nezaměnitelná a definitivní. K tomu, abychom jim byli právi, mělo jaksi stačit naučit se je užívat; získat jejich důvěru a uchovat si ji. Zatímco fasádu vily uspávaly vlny léta, dotírající na pískovou omítku, zkoumal ji zevnitř ve snaze objevit její skryté mízy a tajné dráhy uvnitř zdí, kde obíhaly.
 
 V patře se o jeho zvědavost přetahovaly dvě sousední místnosti. Matčin snivý, ale jasný budoár, kam okny – málokdy zataženými – vnikaly záblesky denního světla a vlhčily bílý porcelán sošek rozestavených po dlouhé komodě; trojdílné zrcadlo toaletního stolku, který stál v rohu, ty signály ještě násobilo a odráželo zpátky k nebi. Vedlejší pánský pokoj byl patřičně mužský, jeho temnější, dřevem vyložený interiér působil bezpečněji, ale také odtažitěji. Zasklené dveře na balkon, bílé a naškrobené, jakoby z pavučin utkané záclony, v nichž stávalo měsíční světlo jako mléčná mlha. Vpravo od vchodu na balkon lampa a vedle ní velký tmavohnědý ušák, vévodící přívětivému kuřáckému zákoutí. Opuštěný trůn, který tu po otcově odchodu napříště vládl sám.
@@ -17,9 +15,7 @@ I to byl přitom druh zneuctění, pokus o vzpouru a porušení zákona. Tý�
 
 Navíc úlevně vyvazoval věci z navyklých rolí. Když zacházel s půdou jako s obydlím a používal piáno nebo stůl jako přístřešek, nutil věci překreslit své kontury a změnit svou identitu, na způsob hole, z níž vyjede nečekaně nůž nebo deštník. Přestože si půjčoval polštářky od matky, doupata, která z nich stavěl, mu neměla umožnit jen návrat do sluje jejího břicha; také se v nich chtěl co nejvíc vzdálit domu, nad nímž matka vládla.
 
-\* \* \*
-
-  
+* * *
 
 Zvedal rovněž zkoumavý pohled k domům v sousedství, hlavně k tomu, který stál za drátěným plotem vlevo od vily a od buksusy lemovaného chodníčku, jenž k ní vedl. Hranatá stavba s plochou střechou pro něj měla zvláštní eleganci, která vile osudně chyběla; vyplouvala z keřů jako pozemní ponorka, kulaté okno s matným sklem, obrácené k nim do zahrady, bylo plné mlčenlivé vyzývavosti. Bylo by stačilo narodit se tam, na druhé straně plotu, aby pochopil svět a poznal skutečné dobrodružství?
 
@@ -29,9 +25,7 @@ Měnil se v pátrače. Usedal na zahradě a vysílal pohled k jejím nejztrac
 
 Když si jednou s přítelkyní ze sousedství hraje na schovávanou, zahlédne ji skrčenou za laťkovou lavičkou v hloubi zahrady; aniž co řekne, sebere tlusté poleno, dojde až k lavičce a hodí špalek holčičce na hlavu. Potrestal ji tenkrát – navíc k nejasné touze, kterou v něm budila – i za to, že mu odhalila prázdno zahrady a nemožnost se v ní opravdu schovat?
 
-\* \* \*
-
-  
+* * *
 
 I příroda dostávala smysl hlavně dík pokojům a místnostem, které skrývala a které v ní byl jaksi schopen objevit jedním pohledem. Při povinných nedělních vyjížďkách se zatvrzele upínal jen k lesíkům a loučkám, které lemovaly silnici a kde se mu každý trochu přitažlivý kout, každá větev skloněná trochu naléhavěji nad svůj stín v trávě, zdály označovat práh hledaného útulku.
 

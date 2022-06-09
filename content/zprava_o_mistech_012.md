@@ -3,8 +3,6 @@ title: 3/ Území
 contentType: prose
 ---
 
-  
-
 Narodil se jako městský člověk, od města, které obýval, jej ale dělilo rozlehlé pole. Svět a jeho tajemství před ním vyvstávaly na obzoru jako pouhá vidina, slib chystající se naplnit, ale jakoby odkládaný na později: dosažitelný až po výjezdu a cestě do světa. Bylo třeba vyjít před vilu, obrátit se k ústí ulice vpravo, za nímž zívala pláň jako věčné nazítří, dojít k ztuhlým vlnám oranice, uctivě před ní uhnout doleva a pomalu scházet – po mezi nebo podél vil naproti poli – až na dolní okraj svažujícího se parku, odkud se odjíždělo tramvají do městského středu. Než tam došel, minul několik pastí; jako tu hranatou prohlubeň se železným víkem, která se vynořila asi uprostřed cesty, na úpatí domu, kde sídlil dost nevlídný výčep piva. V jednom zimním ránu, cestou do školy, uviděl propadliště otevřené, rozzívlé dokořán mezi cáry mlhy. U chodníku stál velký nákladní vůz, nemluvní a masivní mužští z něj vážně skládali sudy a s matným duněním je spouštěli po provaze do podzemí, jako velké vyduté rakve.
 
 Šlo přitom o pouhý signál, za nímž se hlásila rozsáhlejší past. Všude kolem výčepu se zvedaly další výzvy, jako by označovaly celé zvláštní území a sváděly k jeho pozornému průzkumu. Pouštěl se do něj hlavně při návratu, když zvolna stoupal do svahu k vile a mohl se kolem sebe rozhlížet s větší pozorností a rozvahou. Zatímco pole – a na jeho obzoru záhadný ostrov křovin, obehnaný zdí bez vchodu – teď míjelo po jeho levici, vynořilo se před ním (když prošel kolem parku) napřed nároží, jehož přízemí zabíraly tři krámy: uprostřed starý koloniál, kam se vcházelo přímo z rohu (A), a po stranách dva další obchody. První z nich už patřil k příčné ulici, která od pole stoupala doprava (B), druhý, jejž míjel bezprostředně za koloniálem, vyhlížel naopak rovnou do pole (C).
@@ -13,9 +11,7 @@ Po tom, co ho nechal za zády, šel napřed podle plotu nevelké zahrady (D), a�
 
 ![](../Images/003.jpg)
 
-\* \* \*
-
-  
+* * *
 
 Znovu se octl na stopě. Pokaždé, když územím prochází, jsou pro něj jednotlivé zastávky první orientační body, na jejichž základě jednou objeví – přímo na místě – rozhodující tajemství; i tady se zjevně odehrává skrytá část jeho vlastního života. Znamení ostatně časem dál přibývá. Dveře rohového koloniálu se jednou zničehonic zavřely a navždy zahradily cestu do přítmí, kde starý majitel v bílém plášti, vždycky čerstvě vypraném a jakoby jiskřícím čistotou, trávil čas lovením kyselého zelí z velkého dřevěného sudu. P., jeho soused holič, se aspoň z jednoho přilehlého krámu přesunul do druhého a po lokálu na kraji příčné ulice zavěsil svou plentu z chřestivých korálků do dveří toho, odkud byl výhled na pole. Návěští jeho salonu, tradiční zlatý talíř, pak zvlášť působivě odráželo mrchoviště vyoraných hrud a vzdouvalo den co den jejich obraz svým zaoblením, než jeho lesk znovu pohasl v popelu stmívání.
 
@@ -33,9 +29,7 @@ Přísnost „veřejné“, do ulice obrácené fasády domu s výčepem nadleh
 
 Dál za výčepem, před vilou, pod jejímž ozdobným štítem visí medajlonek reliefu, cítí nicméně jisté rozpaky. Relief lne k průčelí jako kamenná pečeť, žena zobrazená na něm z profilu a s vláčně, ale jaksi pokorně předpaženýma rukama působí současně jako výzva a jako odmítnutí. Na rubu průčelí, uvnitř domu, vede možná celý tajný život; skrývá tam živou a horkou půli těla, která – jak průzkumník naznačí v krátké básni[\*](./resources/undefined) – uvádí do pohybu zvláštní mechanismus spojený s jejími údy složitou, slastně rafinovanou soustavou hedvábných nití. Zároveň nicméně ten život přísně zapírá, tají ho za svou kamennou nehybností svíranou ze všech stran rámem medajlonku. Kdykoli ji hrdina vidí, myslí na to, co se říká o jiné skrčené dámě, vyryté na líci korunových mincí. Není i žena v průčelí, jako ta celonárodní kráska, nucena trvale klečet proto, že těsný okolní prostor jí nedovoluje vstát?
 
-\* \* \*
-
-  
+* * *
 
 Pokračoval v pátrání, ale ne bez jistých pochybností. Kde opravdu pramenila záhada, která ho k území táhla? Byli tu jistě podivní strážci prahu a jejich tajemné nástroje, snad i jejich neznámé vědění: mužští se sudy, vidličkou ozbrojený hokynář, holič disponující blyštivým talířem a chvějivým závěsem korálků. Jejich osobní tajemství byla nicméně jen signály tajemství míst samých, v celém území i v každém jeho detailu se zdálo být vepsáno jedinečné a ucelené poselství. Z čeho ale svou ucelenost čerpalo, pouze z území? Nepřispíval k ní i sám hrdina, se svou věčnou _potřebou_ tajemství?
 
@@ -53,4 +47,4 @@ Prozatím nicméně pokračuje v chůzi. Po tom, co pod železným víkem zahl�
 
 * * *
 
-[\*](./resources/undefined) Viz přílohu na konci svazku.
+_[\*](./resources/undefined) Viz přílohu na konci svazku._

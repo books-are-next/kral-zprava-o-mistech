@@ -5,14 +5,14 @@ contentType: prose
 
 V panství bodláků I
 
-V panství bodláků v hádankovitých houštinách  
+_V panství bodláků v hádankovitých houštinách  
 v jeskyních dávných pocitů strnulých do ticha  
 jako promlčený třpyt hadí kůže  
 letopočty dávno utonulé ve sluneční lávě  
 tolikrát převrstvené dlouze tuhnoucí jako se rozesychají staré stoly  
-staré inkoustem pocákané necky v kopřivách
+staré inkoustem pocákané necky v kopřivách_
 
-poslední ale hebké hodiny  
+_poslední ale hebké hodiny  
 vlekoucí se s pomalou jistotou  
 jako napůl vyschlý heraldický krab když se naposledy vrací  
           do svého erbu  
@@ -25,16 +25,16 @@ starý lom nerozveselitelné sutiny někdejších pískovcových
           knihoven  
 a rezavé pruty jak tu dodnes vpisují někdejší nálety na Londýn  
 i Cařihrad do stěny zvednutého jen zvolna klesajícího písku  
-jako na nehybný štít zářijového počasí
+jako na nehybný štít zářijového počasí_
 
-Krab leze pomalu písek jímž se sune ale stříká až sem  
+_Krab leze pomalu písek jímž se sune ale stříká až sem  
 do mých uší jak budou podařenou trofejí příštích historiků  
 S hlavou obrůstanou nejstaršími kořeny  
-pomalu ale jistě rezavím
+pomalu ale jistě rezavím_
 
-          \* \* \*
+          _\* \* \*_
 
-Já nebo kolečko co se tu kdysi zadrhlo  
+_Já nebo kolečko co se tu kdysi zadrhlo  
 ve vzduchu rozechvělém nad vrcholky trav zatímco mám dál  
           na mušce  
 vzdálenou paseku s ustrnulou zvěří (v pozoru tak jako mé uši)  
@@ -47,9 +47,9 @@ starý had který před polednem sklouzl ze stojanu
 a sunul se k oknu zůstal přisát na sklo  
 kde se rozpadá navždycky jako uschlý blesk  
 Na sklo kupole vysoko nad ruchem města mrakodrapů  
-kam už nedoleze které už nevzruší jako kdysi King Kong
+kam už nedoleze které už nevzruší jako kdysi King Kong_
 
-Pomalu tvrdnu  
+_Pomalu tvrdnu  
 někdejší omyly se mění neúprosně v pravdy  
 kolo od vozu prchá nezadržitelně do polí  
 pneumatika pukne svalí se na bok na rozpálený asfalt  
@@ -59,4 +59,4 @@ napříč zahrádkami předměstí vede zbrusu nový monolit
 jak ho sem nenápadně odložili  
 slunce tvrdne tak jako krytý kuželník  
 nad nímž vychládá pomalu ale jistě  
-žloutnu jako listí na stromech
+žloutnu jako listí na stromech_

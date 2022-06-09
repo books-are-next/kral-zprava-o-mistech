@@ -3,8 +3,6 @@ title: 4/ Panství
 contentType: prose
 ---
 
-  
-
 Okruhy, jimiž prochází při svém průzkumu světa, se postupně rozšiřují, jeho expedice nabývají podoby rozsáhlého bloumání krajinou. I místa se však dál dožadují jeho pozornosti, až ho tím někdy zaskočí uprostřed cesty. V tišině končícího léta, sotva se vrátil do města po vyčerpávajících oslavách na severu země, je znovu vtažen do hry v tutéž chvíli, kdy se chystá podstoupit jen malou kúru: vykoupit své nedávné excesy dvěma týdny „dobrovolné“ brigády – ve skutečnosti nařízené dekretem – v tristní dílničce na městské periferii.
 
 Za dílnou, kde ráno usedá k rozviklanému stolu jen proto, aby tu a tam zvednul oči od svého Freuda a vydal mátožnému pracujícímu jakýsi objednací lístek, mu z toho vyhnanství nabídne nečekaný únik přilehlý dvůr. Právě když si říká, že se tu octl na dně, objeví na kraji dvora vybetonovaný výkop, kam vniká pohledem k jinému, hlubšímu dnu, a kde objevuje celý zasutý svět. Úzké, rzí rozežrané koleje tam mizí v hustých trsech kopřiv a bodláčí, spálené a podobně rezavé trávy, vysloužilý vagon – pouhá plošina s koly – tu den co den nechává smířlivě svá prkna nasakovat poledním sluncem. Na konci výkopu koleje náhle končí před vraty vsazenými do betonového bloku, kus za vlečkou se zvedá k nebi omšelá, bledězelená polokoule, jejíž účel je víc než nejasný, ale kterou přesto hned rozpozná: má před sebou kupoli své observatoře, přímo tady a na dosah ruky. Vůbec se mu zdá, že tu na první pohled všechno poznává, _panství bodláků_, na které se dívá, pro něj má rázem touž zřejmost jako jméno, které mu spontánně dává. Všechno tu, na tom nad jiné přesném území, zaujímá jedinečné a definitivní místo, není proč pohnout jediným stéblem nebo bodlákem, aby celek byl výmluvný do posledního detailu.
