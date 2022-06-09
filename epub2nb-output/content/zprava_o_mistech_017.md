@@ -6,8 +6,6 @@ contentType: prose
 „Amerika je buď právě tady, nebo není nikde.“  
 Novalis
 
-  
-
 Dík nonšalanci, s níž obývá své obrysy, může Plzeň výzkumníka dovést až do Ameriky. Mezi přízraky, které zalidňují paměť města, ostatně defilují i skuteční američtí vojáci, ti, které Plzeň, co jediné město v zemi, vítala jako osvoboditele na konci války – vzdor vetu velkého generalissima, jenž tu roli vyhradil vlastním jednotkám. Vzpomínka na Američany je pro obyvatele města tím živější, že zemi oficiálně osvobodila konkurence; i současní obránci vlasti (včetně výzkumníka) se jen uboze vlečou ve slavných stopách USmanů. Stesk po nich, říká se, dal Plzni rovněž odvahu k jediné vzpouře, kterou země zažila od války a jíž město reagovalo na potupnou měnovou reformu. Hostujícím sonnyboyům samým, to se ví, se Plzeň nejspíš jevila jako dost fádní posádkové město, sice větší než Winchester nebo Prescott, ale trapně neznalé hamburgerů. Byl _Continental_ mezi deskami, které tu poslouchali po setmění, teskně natlačení kolem gramofonu vláčeného v džípu po celé Evropě? Důstojníci si nepochybně vychutnali pohodlí stejnojmenného hotelu, ledaže by ten dostal své jméno až po tom, co tudy Američané protáhli – a právě na počest desky a jejího broukání v ležení hrdinů, na kraji památných večerů.
 
 Mezi vojáky se v paměti města mísí jiné zámořské přízraky, fešně operetní, ale nijak heroické. K obrazu slova „čechoameričané“, jímž jsou označovány, to ostatně jsou jen šarmantní kříženci, Češi, kteří se v Americe usadili a po závratné kariéře v kterémsi velkohokynářství dojížděli zpátky do vlasti, ohromovat svým úspěchem závistivé známé a příbuzné. Právě pro ty bohaté strýčky a jejich návštěvy se zřejmě původně stavěly oba velké hotely města, jejichž názvy samy jako by je sváděly k pobytu hned odkazem na jejich američanství, hned zas apelem na jejich stesk po domově: na jedné straně kosmopolitní Continental, na druhé konkurenční hotel Slovan. Snadno si lze představit i dobové prospekty – z desátých nebo dvacátých let – určené výhradně našim velkohokynářům a vychvalující komfort obou hotelů v jejich hybridní hatmatilce, v češtině, jež se sama zkřížila s američtinou. Plzeň je první město země, kam přijíždí vlak směrem od západu; je jen přirozené, že k sobě úsměv kříženců chtěla přilákat, dokud byl čerstvý.
@@ -34,9 +32,7 @@ Americká byla také – a především – celá atmosféra doby, v níž p
 
 Ten, který výzkumník viděl rozkvétat po válce, to ukázal tím lépe, že navždy zůstal provizoriem. Duch poválečných let, jejich jazz, flámy a lízátka zmizí z místních bulvárů v roce 1948, dobová frenezie bude jen závorkou, která se vzápětí uzavře, vystřídána ponurou vládou stínů. Vzpomínka na ni se změní v tím solidnější přízrak, trvale dotírající v paměti svou nepřítomností.
 
-\* \* \*
-
-  
+* * *
 
 Po tom, co se k ní přiblížil v Plzni, se shledal s Amerikou o kus dál, v Karlových Varech, kam zajel z Plzně na krátké „školení“. Hned po příjezdu je z toho celý pryč a bez sebe: sotva se střetne s ruchem městské kolonády, pozná jeho jedinečný akcent, proudění a hemžení okolo je totožné s tím, kterým v jeho dětství žilo hlavní město. Uprostřed éry velkého spánku se tu dav vlní a čeří v průvanu poválečného provizoria, zmítá jím táž provinčně kosmopolitní horečka, jako kdysi. Vrátila se mu také znepokojivá různorodost, podezřelí překupníci a obskurní nevěstky se z něj co chvíli vynoří vedle nevinných lázeňských hostů.
 
@@ -62,9 +58,7 @@ Nadarmo opouští hotel a prochází město křížem krážem, s jedním z k
 
 Všemi odvržený, zmožený a zbitý, se pokorně musí vrátit na místní velitelství (čemuž se chtěl za každou cenu vyhnout) a dát se ubytovat v něm. I tady ale najde zavřené dveře; nedostane se dál než do chodby v přízemí, které armádní úředníci sdílejí s velkým buffetem. Stočený na reklamní ceduli, již vylovil z výkladu automatu, tu nakonec ulehne poblíž toalet, na nejzazším konci chodby, s tváří obrácenou ke skleněným dveřím, za nimiž tiše a matně světélkuje sál buffetu: pečlivě otřené umakarty a plechy, převrácené židle na stolcích. Celá jeho zaslíbená zem je tady, stáhla se beze zbytku do té pustiny za sklem. Sám v sobě teď cítí dutost pouhé makety, zároveň jako by se dotýkal dna všech věcí. Ještěže se může trochu těšit představou nic netušících chodců, kteří zítra potáhnou kolem jeho cedule, _jako by na ní nikdo nebyl spal._ Ráno jistě nesmí zapomenout dát ji do výkladu zpátky.
 
-\* \* \*
-
-  
+* * *
 
 Přistát v té druhé Americe – v zemi za mořem – mu dlouho bude dopřáno jen ve snech. V jednom z nich se dostaví na malé náměstí, brzy po ránu – šeď trochu rozsvěcí jen stužka růžové záře v prachu dlažby –, odjíždí se hned teď a tady, ve zvíření prachu a svítání, náklaďákem a pod dohledem obskurních zelinářů v neforemných hučkách. Na korbě kamionu je už naloženo pár předmětů, obalených hnědým balicím papírem a převázaných provázky; podle tvaru a mosazného lesku, který tu a tam prosvitne trhlinou v obalu, poznává velké decimálky s masivní dřevěnou plošinou, na nichž lze vážit celé pytle brambor nebo cibule. Stejně rychle pochopí, že papírový pytlík, jejž vyfasoval, skrývá láhev whisky, jako ten, který nepouští z ruky hrdina filmu _Fat City_, i pytlík je z hnědého papíru, jímž jsou obaleny váhy. Krátce po startu stoupá kamion ulicí nad svahem předměstského parku; také tu výzkumník zná, v poslední den války tudy viděl odjíždět německé tanky pokryté ranním sluncem – i s posádkou – jako okrově žlutým blátem.
 
@@ -76,4 +70,4 @@ Klid a rozloha Central Parku ho právě tak stačí naplnit štěstím, v ten 
 
 * * *
 
-[\*](./resources/undefined) Nic – a nikoli prázdno, jehož chuť tak rád cítí v bezkrevných salámech z Marais. Někam doprostřed, mezi sníh a prach, by nejspíš patřilo bílé vepřové filé, upečené tak, že se rozpadá na drobky; to, které mu kdysi učarovalo při památném obědě u tety. Filé, skrz něž zas zjevně ochutnal jinou vzácnou substanci, samu dřeň papírmaše... Jak je vidět, záliba ve fádnosti ještě nevylučuje labužnictví.
+_[\*](./resources/undefined) Nic – a nikoli prázdno, jehož chuť tak rád cítí v bezkrevných salámech z Marais. Někam doprostřed, mezi sníh a prach, by nejspíš patřilo bílé vepřové filé, upečené tak, že se rozpadá na drobky; to, které mu kdysi učarovalo při památném obědě u tety. Filé, skrz něž zas zjevně ochutnal jinou vzácnou substanci, samu dřeň papírmaše... Jak je vidět, záliba ve fádnosti ještě nevylučuje labužnictví._

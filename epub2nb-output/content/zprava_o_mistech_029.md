@@ -3,17 +3,13 @@ title: "Návštěva v\_rue Montmartre"
 contentType: prose
 ---
 
-Souřadnice
-
-  
+_Souřadnice_
 
 K návštěvě došlo v sobotu 2. května, mezi jednou a druhou odpoledne. Fotografie, jimiž jsem chtěl tento záznam doprovodit, jsem pořídil – v téže denní době – až 5. května, abych předem neomezil volnost svého pohledu.
 
 Náhoda mi jméno ulice označila 1. května, ústy kamaráda, který mi navrhl zajít na večeři do místní restaurace – společně s dalšími českými přáteli, kteří emigrovali do Basileje a projížděli právě Paříží na cestě do Londýna. Stojí za zmínku, že kamarád se spletl: restaurace se ve skutečnosti nachází v rue _Faubourg_ Montmartre, kde kdysi pobýval také Lautréamont[\*](./resources/undefined). Spolu s „objek­tivní náhodou“ tak o volbě „mé“ ulice rozhodl i chybný výkon.
 
-Pozorování
-
-  
+_Pozorování_
 
 Od první chvíle mi rue Montmartre zjevně vychází vstříc. Hned vedle východu z pasáže (Panoramas), odkud do ní vcházím, dává biograf _Melodii v podzemí_, film, k němuž mě vážou zvlášť důvěrná pouta. Ve vstupní chodbě kina navíc zahlédnu větrací vedení podobné tomu, které hraje ve filmu podstatnou roli. Naproti biografu – na levém chodníku – zas objevím reklamu s obrázkem nezapomenutelného Pepka (námořníka) z kreslených seriálů a filmů, hrdiny, který významně poznamenal mé dětství, ale o jehož existenci jsem dosud ve Francii nenašel jediné svědectví. (Podle „zákona série“ ho samosebou zakrátko uvidím znovu, v kiosku s obrázkovými časopisy.) Ve stejné výloze si všimnu i oznámení, že kdosi chce zaměstnat zkušené _kráječky_ („coupeuses“; též řezačky, ustřihovačky). Ve výkladu vedlejšího knihkupectví kniha s titulem Son Altesse la Femme – Její Veličenstvo Žena. Kniha je antikvární, s krásnou starou vazbou. Na velkém „F“ slova Femme sedí motýl, jako na vrcholku květiny. Uvědomuji si, že když jsem se předtím, na Haussmannově bulváru, rozhodl _nevstoupit_ do jiného knihkupectví, ve snaze „šetřit si síly“, všiml jsem si nicméně titulu jedné ze zlevněných knih vystavených v ošatce před krámem: bylo to pojednání o motýlech.
 
@@ -39,9 +35,7 @@ Před další cestou proklouznu jen tak tak mezi dvěma auty (jistěže zaparkov
 
 Poblíž garáže mám ještě čas si všimnout starého a dost podivuhodně ohlodaného nápisu, z něhož zbývá jen to, co nazvu „Zmrzačeným dnem“ (Journée mutilée – viz fotografie) – a ubírám se k ústí ulice. Než tam ale dorazím, musím ještě projít kolem řeznictví. Na rozdíl od goldschmidta je otevřené a nese název dům pražské šunky (sídlí navíc v čísle 13)… Když ulici opouštím, vyčerpání, které pociťuji, plně odpovídá zvláštnímu odporu, s nímž jsem musel zápolit před její návštěvou. Poslední úsilí už vynaložím jen na to, abych sebral po vzorku od obou druhů smetí, červeného i modrého, které doslova vystýlá konec ulice (k níž patří i rozsáhlé tržiště).
 
-Ozvěny, dodatečná prodloužení
-
-  
+_Ozvěny, dodatečná prodloužení_
 
 Když se vracím domů v metru, v novinách jednoho z pasažérů si všimnu fotografie, která ukazuje psací stůl jakéhosi politika (snad M. Debré) pokrytý nesourodou tříští po výbuchu plastické bomby. Líbí se mi uvést fotografii do vztahu s vozovkou pokrytou zbytky trhu, na niž jsem se díval chvíli předtím.
 
@@ -49,9 +43,7 @@ Ještě ten večer se znovu vidím s přítelem Pavlem, který odjíždí do Lo
 
 V úterý 5. května, kdy se do rue Montmartre vrátím kvůli fotografiím, tu samosebou udělám další objevy. Zvlášť mě potěší zjištění, že řada zdejších obchodů a podniků zjevně skrývá jiná zařízení – jak z toho už léta podezřívám většinu krámů, kolem nichž procházím. Řeznictví se například ukáže být poštou, při nejmenším právě na mém snímku (kde z nápisu na stříšce krámu zbyla jen slova la poste), tiskárna, díky příjmení svého majitele (moulin), je zároveň mlýn.
 
-Závěry
-
-  
+_Závěry_
 
 Především chci zdůraznit, že jsem v ulici našel řadu ozvěn svého snu z poslední dubnové noci – důkaz, že šlo o „velký“ sen, mimořádně významný i pro můj bdělý život. Smysl dotyčných ozvěn lze číst ve třech různých rovinách, stejně jako obrazy snu.
 
@@ -65,7 +57,7 @@ Mezitím jednají aspoň jiní: v úterý 5. května, kdy se do rue Montmartre
 
 Celý ten příběh Ameriky, zámoří, cizích zemí, cest a bloudění (Eram) je jistě také spojený s předešlým „příběhem otce“: zaslíbená země, které se tu zříkám, je hlavně „Amerikou“ společenského úspěchu a patřičně zajištěného postavení, otcovských hodnot par excellence. I kdybych se byl nakrásně zmýlil v tom, s kým pro mě souvisí nepřístupný goldschmidt (zřejmě i nové ztělesnění potulného Ahasvera[\*\*\*](./resources/undefined)), i kdyby mě na stejnojmenné řeznictví nebyl upozornil Georges (sám napůl Žid), ale Pavlův švagr, nepřestal by mě krám varovat před cestou za moře; Amerika by se jen změnila v Australii, kam pro změnu odjíždí švagr – jak mi řekl v předvečer snu – a kde také (a především) žije už léta v emigraci můj legitimní otec[\*\*\*\*](./resources/undefined).
 
-Nejpevnější pouto mezi Amerikou a Otcem, zároveň přímé a temné, vznikne nicméně až dodatečně, díky dalšímu činu, k němuž se na základě dojmů z ulice odhodlám (což mě jistě z celé procházky také nejvíc těší). Když totiž krám otec eram objevím, rázem pochopím, že si tam musím koupit nové boty, které ostatně dost naléhavě potřebuju. Udělám to v totéž úterý, kdy v ulici fotografuji, a získám tak kromě bot i papírový sáček s nápisem, který ještě zdůrazní komickou stránku věci: otec votre chausseur, otec – váš obuvník. A protože to tedy je otec, kdo nás obouvá a od koho si, jak jinak, jen půjčujeme všechny své skvoucí křápy – a protože je ke všemu nablízku taky kostel (Svatý Eustach), dlouho se nerozmýšlím: třebaže je úterý, navléknu si nové boty hned a právě tam, v kostele, kde zároveň nechám ty obnošené a vrátím je tak rovnou hlavnímu dodavateli, společnému Otci nás všech… Jen pár dní nato pak všechno naráz shrne znovunalezený verš mé staré básně: konec starým botám new yorku!
+Nejpevnější pouto mezi Amerikou a Otcem, zároveň přímé a temné, vznikne nicméně až dodatečně, díky dalšímu _činu_, k němuž se na základě dojmů z ulice odhodlám (což mě jistě z celé procházky také nejvíc těší). Když totiž krám otec eram objevím, rázem pochopím, že si tam musím koupit nové boty, které ostatně dost naléhavě potřebuju. Udělám to v totéž úterý, kdy v ulici fotografuji, a získám tak kromě bot i papírový sáček s nápisem, který ještě zdůrazní komickou stránku věci: otec votre chausseur, otec – váš obuvník. A protože to tedy je otec, kdo nás obouvá a od koho si, jak jinak, jen půjčujeme všechny své skvoucí křápy – a protože je ke všemu nablízku taky kostel (Svatý Eustach), dlouho se nerozmýšlím: třebaže je úterý, navléknu si nové boty hned a právě tam, v kostele, kde zároveň nechám ty obnošené a vrátím je tak rovnou hlavnímu dodavateli, společnému Otci nás všech… Jen pár dní nato pak všechno naráz shrne znovunalezený verš mé staré básně: konec starým botám new yorku!
 
 (Musím říct, že boty mě vůbec vždycky mají čím potěšit. Občas si dokonce přeju, aby lidé trousili boty za chůze, tak, jako nechávají šlápoty. Lze se divit tomu, že i vyjížďka k moři, kam se vydáme s přáteli – taky s Georgesem – necelý týden po mé prohlídce ulice, se mi zdá opravdu vydařená až ve chvíli, kdy v Deauville fotografuji pár kožených papučí? I jejich snímek konečně napříště patří k této dokumentaci.)
 
@@ -77,10 +69,10 @@ V _rovině Onoho_ by jistě bylo snadné převést můj „případ“ na strac
 
 * * *
 
-[\*](./resources/undefined) Až dlouho po napsání tohoto záznamu zjistím, že Lautréamont bydlel přímo v domě, kde dotyčná restaurace sídlí.
+_[\*](./resources/undefined) Až dlouho po napsání tohoto záznamu zjistím, že Lautréamont bydlel přímo v domě, kde dotyčná restaurace sídlí._
 
-[\*\*](./resources/undefined) Jiné krámy téhož řetězu obchodů nesly pouze jméno ERAM, ten z rue Mont­martre zmizel krátce po tom, co jsem jej objevil.
+_[\*\*](./resources/undefined) Jiné krámy téhož řetězu obchodů nesly pouze jméno ERAM, ten z rue Mont­martre zmizel krátce po tom, co jsem jej objevil._
 
-[\*\*\*](./resources/undefined) Jméno je rovněž příznačné svým vztahem ke zlatu (a k penězům), výsost­­né­mu symbolu „úspěchu“.
+_[\*\*\*](./resources/undefined) Jméno je rovněž příznačné svým vztahem ke zlatu (a k penězům), výsost­­né­mu symbolu „úspěchu“._
 
-[\*\*\*\*](./resources/undefined) Teprve po letech se dovím, že ve skutečnosti odcestoval... do Ameriky.
+_[\*\*\*\*](./resources/undefined) Teprve po letech se dovím, že ve skutečnosti odcestoval... do Ameriky._

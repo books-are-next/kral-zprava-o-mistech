@@ -3,8 +3,6 @@ title: 10/ Paříž
 contentType: prose
 ---
 
-  
-
 Když poprvé přijíždí do Paříže, má tu hned dvojí poslání. Co vyzvědač ve vlastních tajných službách se chystá město prozkoumat s nadějí, že v něm najde pár záchytných bodů pro svůj další život; cesta ho zastihla ve chvíli, kdy se octl na rozcestí, cizí metropole před ním otevírá prostor, kde se bude konečně moci vzdálit od vily a obývat vlastní nejisté úkryty. Zároveň je ve městě jako vyslanec tajné společnosti, s níž – spolu s nejbližšími přáteli – je spjat už několik let a která se snaží obnovit styky s příbuznou společností v Paříži. Ten, kdo v jednom zářijovém ránu vysedá na Východním nádraží, je přitom pouze němý mluvčí, a nejen proto, že nemluví jazykem svých hostitelů.
 
 Na křižovatce, kam došel, k němu doléhají jenom němé pokyny průvanu a zčeřeného vzduchu, vědomí rozhraní, které se chystá překročit, ho jako nikdy činí pozorným k pouhému klouzání věcí a k tichému dýchání pauz mezi dvěma událostmi nebo signály. Sám je pouhé klouzání, poznává se jen ve svých náhlých „výpadcích“, ochabnutích a zatměních, kde se ztrácí vprostřed dne po každé myšlence a gestu, aby se odtud vzápětí vynořil jako z bezedné studny. Hlubina studny se zdá být jeho jedinou pravdou, blíží se své skutečné existenci právě ve chvíli, kdy ho tělo i duch opouštějí a mizí v nedohlednu. I kdyby chtěl podstoupit tu krajní zkoušku, jíž je sebevražda – říká si poťouchle –, vjel by nejspíš nožem jen do prázdna… Prázdno se právě tak vtírá mezi jeho slova a věci, které chtějí označit, mezi jeho řeči a jeho činy.
@@ -19,9 +17,7 @@ Nedá se přitom říci, že by mu k znovunalezení ztracené výřeč­nosti c
 
 Zvlášť proradné přijetí ho čeká na noční avenue, kde se podle rady svého slavného průvodce chystá zhlédnout přehlídku velkých neonových brýlí, blikajících přeludně nad krámky dlouhé řady optiků; slibně rozzářené brýle ho sice vítají hned na rohu, dál se ale ulice topí ve tmě, po celý zbytek cesty přihlíží jen defilé propastně nepřítomných brýlí a optiků. (Když před návštěvou ulice usedne na kavárenskou terásku – tváří k parku – a vyšle odhodlaně do stmívání slovo „absint!“, aby si objednal, odpoví mu právě tak pouhá ozvěna.) Řeč znamení umlká, sotva zazněla, předpokládané signály jen chvíli breptají, než znovu ustoupí tichu.
 
-\* \* \*
-
-  
+* * *
 
 Ticho přitom nebude úplné; Paříž se sice nechce podrobit předepsanému jazyku, zároveň ale jako by mluvila jinou, vlastní řečí, třebaže lakoničtější a skromnější. Dvě makety v podobě velkých flakonů, které se střídavě rozsvěcejí na rohu nedaleko prorokova bydliště – kde je výzkumník objevil hned po příjezdu – jsou nesporně něco zcela jiného než to, co v nich chtěl vidět nejdřív: „spojité nádoby“ z titulu slavné prorokovy knihy. Ani dvě žárovky ve vitrince veřejné váhy, které se podobně vidí rozžíhat – právě tak střídavě – na kraji jinak temné ulice Faubourg St-Martin, jej neuvedou na stopu žádné sítě znamení a koincidencí; váha, pouhá replika reklamy z Pigalle, jednoduše přidává své bludičky k jejím flakonům, zdvojuje jejich blikání svým vlastním a rozjíždí ho v temné ulici sama za sebe, týmž kyvadlovým pohybem, v jehož umíněném opakování spočívá celá její sláva. Do nedohledna nic než ten zároveň živý a ustrnulý elán, otázka následovaná místo odpovědi jen vlastní ozvěnou. Od flakonu k flakonu a od záblesku žárovky k žárovce-záblesku, z Pigalle na Faubourg St-Martin a zpátky; jednou z té a jednou z druhé strany téhož mlčení, téže nehlasné rozlohy noční tmy. Marně chce vidět znamení navíc v tom, že na váhu naráží při hledání kavárny, již kdysi rovněž navštěvoval autor Spojitých nádob; blikající předmět je v pusté a neosvětlené ulici jen zarputilý památník sebe sama.
 
@@ -49,9 +45,7 @@ Dělník nese městem jen prchavý odlesk na plechovém plátu, prázdný kruhov
 
 Výloha, kterou v den, kdy přišel pořídit její snímek, našel zavřenou…
 
-\* \* \*
-
-  
+* * *
 
 Jeho úlovek moc nevydá: kromě několika záchvěvů jen pár zřetelných, ale nehybných záchytných bodů, které se nedohledně propadají samy do sebe. Ať se mu zdají sebevýmluvnější, tvoří ty bóje v proudu jeho pařížských dní pouze nerozpustné žmolky, jejich konkrétnost zas a zas proráží a rozptyluje každou slovní a pojmovou tkáň, do níž se je snaží vpojit. Akvárium plné vycpaných kun a lišek, které si bůhvíproč dal do výlohy optik na bulváru St-Germain, jej jistě znovu přitahuje svým záhadným _přemístěním_; předmět však uprostřed křehkých čoček a brýlí trčí tak neomaleně a zpupně, že je jen tíživě přítomný a nedá se vtáhnout do žádného snění, žádné potulky nebo dobrodružné výpravy. Dokonce i v prorokově bytě, když tam hrdina konečně pronikne, se jeho pohled vprostřed nespočetných magických objektů a přízračných obrazů zas a zas nutkavě vrací k nanejvýš reálným věcem: ke kufru, klobouku a plášti do deště, které prorok před svou poslední cestou odložil v předsíni a ponechal je navždycky jejich skromné každodennosti. V průchodu sousedního domu se právě tak myšlenka „spojitých nádob“ navždy rozbíjí o strohou skutečnost dvou symetrických vitrin; v jedné visí holá žárovka, ve druhé jen trs spálených drátů bez žárovky.
 

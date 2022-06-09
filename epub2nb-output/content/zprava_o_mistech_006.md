@@ -3,4 +3,4 @@ title: ''
 contentType: prose
 ---
 
-Jiřímu a Georges-Henrimu
+_Jiřímu a Georges-Henrimu_

@@ -6,8 +6,6 @@ contentType: prose
 „Muzeum Madame Tussaud je pusté.“  
 Zelda Fitzgerald (_Vyhraďte mi ten valčík_)
 
-  
-
 Město kolem něj se celé mění v přelud. Čím víc se s ním seznamuje, tím méně se mu daří je uchopit, čím víc sonduje jeho místa a zkoumá jejich podobu, ptá se po jejich skryté povaze a vzájemných vztazích, tím méně je schopen z nich složit kompaktní celek. Nad fotografiemi – vybledlými a za svou ztrnulostí jakoby rozechvělými –, které jediné mu z míst zbydou, bude dokonce později pochybovat i o jejich existenci. Už tenkrát, když po Plzni chodil a všechny jeho myšlenky kroužily kolem ní, bylo město jen dutina v jejich středu, prázdno, které každým svým nájezdem jen dál prohlubovaly. Nerozdýchaly opravdu ztrnulé obrysy míst, nechaly mezi nimi obíhat jen jeho _chuť_ je rozhýbat; místa mu pouze vracela její ozvěnu a ještě tak zesilovala jeho izolaci. Plzeň mu zároveň uniká a nastavuje mu příliš svolné zrcadlo, až se scvrká do rozměrů města pro jediného obyvatele. Skrz její místa se přitom jako nikdy střetá pouze s tím, co mají okolní věci nedobytného a cizího.
 
 Je pravda, že místa jsou tím víc přítomná, vnucují se ve své hmotné určitosti tím naléhavěji, že je nelze převést na žádnou obecnou ideu. Jejich pravý smysl bude konečně spočívat právě v tom, čím každou obecnou formulku přesahují – jako kdosi kdesi trefně říká, že jen to, co nemá jméno, opravdu _je._ Nenašel-li výzkumník tajný poklad, má před sebou aspoň kus reality; i to je důvod k určitému pohnutí.
@@ -24,9 +22,7 @@ I vybraná místa „jeho“ Plzně, tak jako zívající výklad a jeho uhýb
 
 Před odchodem z večerního biografu, kde přihlíželi chvění starého němého filmu, se s J. ještě chvíli zdržují v kuřárně. Temná, kouřem nasáklá místnost, kde jsou teď sami, jim umožní přidat pár posledních gest a výroků ke scéně hádky, kterou před promítáním neměli čas dokončit. Po jedné zvlášť procítěné replice vtáhne kouř cigarety a s dramatickým zábleskem v oku přistoupí k oknu; jak vniká pohledem do tmy za sklem, objeví tam náhle jednu ze starých uliček… hlavního města, vyvstalou vprostřed Plzně s celým nákladem svých tichých lamp a omšelých průčelí. J. mu zároveň na usmířenou podává výtisk večerníku – jediného v zemi –, jejž mu den předtím z hlavního města přivezla. Nepotřebuje ho otevřít; stačí mu držet jej v ruce, aby svému výstupu provinčního Bogarta dal pravý americký lesk, navíc k sebejistotě londýnského magnáta ubezpečeného četbou čerstvých burzovních zpráv. Zbývá jim už jen sejít do přízemí a projít poslepu neosvětleným biografem, aby se před budovou shledali s noční Plzní. Hned na prahu pusté a temné ulice je za jejím tichem vítá vzdálený hukot metropolí, jako odtažitá posila.
 
-\* \* \*
-
-  
+* * *
 
 Je pravda, že je tu ještě jiné prázdno, navíc k tomu, které zívá z jeho míst: pustina, která vsákla celý okolní zapadákov, jeho rodnou zem. Plzeň není jen utajené město, je také – a především – vyhaslá. Ve všem, s čím se tu setkává, v nehybnosti a ztrnulém pohledu manželek, které čekají v autě na muže před garáží správkárny, v nedohledném, ale malátném brebentění dělníků v hospodách vyvstává i život jako pouhá vzpomínka, šum moře, které se stáhlo k obzoru a jehož je napříště město jen osiřelým dnem. A nejen proto, že Plzeň sama má víc než jiná města sklon přežvykovat svou minulost, že dělníci na penzi tu do svých denních hospodských komentářů zas a zas mísí vzpomínky na staré časy, kdy Škodovka – hlavní podnik města vedle pivovaru – patřila dosud svému zakladateli. I za jejich nostalgií jen lépe vyvstává širší a podstatnější poušť, vyprahlost země odtržené pod záminkou revoluce od vlastních dějin a vydané ve svém celku na pospas ponurému bezčasí života v kasárnách.
 
@@ -40,9 +36,7 @@ Pátračovy vlastní cesty za tajemstvím jako by osudně podléhaly zákonu dvo
 
 Necelé dva roky nato si tu závrať připomene v Plzni, ve chvíli odjezdu na manévry. Náklaďák, který tam má dopravit jeho rotu, se už pod nimi zpupně rozeřval, když po krátkém otřesu náhle zvadnul a přistál v důlku trapného ticha: jistě, chcípnul mu motor. Výzkumníka zároveň roztřásl záchvat smíchu; teprv ten falešný start, to se ví, patřičně doplnil a upřesnil odjezd nočního vlaku a ukázal ho v pravém světle. Jen tak tomu skutečně je se „závratí odjezdu“ v celé jeho nešťastné provincii (ne-li v celém současném světě): vejde se celá do drobného, bezvýznamného škytnutí, než znovu dopadneme na zem a do svých stop v jejím prachu. I odjezd vlaku a kamionu si na dálku zároveň odpovídají a vzájemně se ruší, aby společně rozezněly pouhé ticho.
 
-\* \* \*
-
-  
+* * *
 
 Musel to ticho opravdu _uslyšet_, aby se věci konečně trochu pohnuly. „O nic víc tedy nešlo“, říkal si po trapném poskoku náklaďáku, nebylo v tom ale žádné zdrcení; udivená věta s chutí drobného popílku, jak mátožně povlávala v ranní mlze, se podobala spíš náhlému osvícení, navíc k rozčarování cítil zvláštní satisfakci. Víc než to, rozčarování ho neslo jako takové, stačilo přestat se mu vzpírat a poddat se jeho vlně. Třebaže odjezdy skrývají jen nová přistání a každý jeho výpad dopředu střídá vzápětí ústup – blíží se k místům jen proto, aby před ním uhnula –, nebrání mu to v tom, aby absolvoval úplnou cestu. Nic, které ho čeká na konci, zcela neruší jeho původní elán, něco z něj a z přitakání, jež znamenal, přežívá ještě v konečném popření. Zklamání samo, říká si, je možné chápat – a žít – jako obohacení. Nelze v něm stejně jako tristní rozplynutí čekaného „ano“ vidět příhodné – pozitivní – _vynoření_ odmítavého „ne“, nebo znaménka „méně“?
 
@@ -54,9 +48,7 @@ I v tom příšeří, kde tone celý jeho plzeňský pobyt, vidí náhle mizet
 
 Objev minimálního mýtu poznamená jeho nejintimnější vztahy; ta, s kterou chodí sdílet vrzavou postel do staré čtvrti, jíž říká plzeňské ghetto – tak se mu sem město zdá soustředit své nejzchátralejší přízraky – je první partnerka, v níž hledá jen ji samu: ne ideální ženu, ale prostě jednu z možných, neztělesňující žádnou podstatu a vyhledávanou pro to, jaká je. Neodvratně tak zároveň objevuje i její cizost, všechno, co nutně uhýbá, překáží a vzdoruje v tom odlišném a hořkém, syrovém těle, v jeho dalekých záblescích a temně kvasících mízách. Stejně jako fasády města mu partnerka nastavuje napůl slepé zrcadlo. Se vším bohatstvím skvrn a škrábanců, jimiž je pokryto.
 
-\* \* \*
-
-  
+* * *
 
 Zvláštními oklikami procházejí i jeho vztahy ke společníkovi, jímž je mu jazyk. Úlomky skutečnosti, které spolu zkoumají – včetně jeho míst a předmětů, které tu nachází – mluví ostatně zvláštním jazykem samy, třebaže jsou zticha. Každý trochu výraznější fakt, dost _výmluvný_, aby vzbudil pozornost, je už právě tak jedinečný výrok, příkladné sdělení otvírající v tkáni věcí novou perspektivu; z izolovaného faktu se stává vzorkem obecnějšího jevu a dokonce naléhavou tezí, stavící perfidně do nového světla veškerou skutečnost. Příšeří klecí bez zvířat, rozprostřené jen po indiciích pochybných seschlých hromádek, neztělesňuje výzkumníkovi pouze nepřítomné tajemství, ale i zvláštní _podezřelou něhu_, při vší soumračnosti dost nakažlivou, aby diskrétně ovlivnila jeho nejkřehčí city – a nejen ve vztahu ke zvířatům.
 
@@ -76,4 +68,4 @@ Nejlepší způsob, jak na to odpovědět – říká si na závěr – je mo�
 
 * * *
 
-[\*](./resources/undefined) Skutečná nebo pomyslná: vidí-li ve věžích slavného pivovaru „zestárlou pev­nost“, přikrčenou v ohybu řeky – zdá se mu – jako by už Plzeň chtěla opustit, znovu tím především zrádně popírá význam, který se pivovaru oficiálně při­kládá – i světový věhlas, na němž spočívá.
+_[\*](./resources/undefined) Skutečná nebo pomyslná: vidí-li ve věžích slavného pivovaru „zestárlou pev­nost“, přikrčenou v ohybu řeky – zdá se mu – jako by už Plzeň chtěla opustit, znovu tím především zrádně popírá význam, který se pivovaru oficiálně při­kládá – i světový věhlas, na němž spočívá._

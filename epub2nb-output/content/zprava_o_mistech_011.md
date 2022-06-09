@@ -3,8 +3,6 @@ title: 2/ Residence
 contentType: prose
 ---
 
-  
-
 Před usnutím někdy unikal z vily tak, že si místnost po místnosti vymýšlel vlastní, k svému obrazu stvořený dům. Neviděl ho jako nový; ať si ho umisťoval do starých uliček za Hradem nebo doprostřed zahrad některé residenční čtvrti, připomínal dům zvetšelý palác, prostorný a komfortní, ale sdostatek omšelý a poznamenaný časem. I okolní park – pokud si vybral residenci – měl zůstat neudržovaný a zarůstat postupně plevelem; věž, která by se zvedala ze střechy, stlučená z bíle natřených prken, by byla zašlá a oprýskaná jako stará plovárna nebo předměstská ohrada. Z vrozené alergie na pach čerstvého cementu a malty pojímal rázem dům jako opak úhledné klícky, nedohledně vylepšitelné pilným kutilským úsilím. Měl být určen jen k tomu, aby se postupně rozpadnul, zdaleka by přivolával bouřku, která by ho roztřásla v pantech, nechala ho blednout v záři blesků a krátce odhalovat své půvaby mezi ohnutými stromy a kopřivami bičovanými deštěm.
 
 Uvnitř by sídlo, navíc k věži, nabízelo další „nadbytečné“ prostory; předvídal tu celou řadu výklenků, temných chodeb a zákoutí příbuzných těm, které si představoval ve vile starých sousedů. Střed bludiště chtěl vyhradit „třinácté komnatě“ – po vzoru stejnojmenné knihy –, hermeticky zavřené a určené jen k tomu, aby trvale navozovala představu tajemství. A nejenom u návštěvníků; nakonec by jistě mátla a dráždila i jeho, třebaže by věděl, že je prázdná. Jako věrný čtenář detektivek, kde často dochází k vraždám právě v zamčených pokojích, chápal dokonce tajemství komnaty jako obraz virtuálního zločinu; jako by v ní chtěl navždy uzavřít všechno násilí a zároveň doufal, že je místnost svou nedostupností vyvolá, nechá ho náhle vyvstat z prázdna večerů.

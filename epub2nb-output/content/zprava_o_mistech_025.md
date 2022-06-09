@@ -3,17 +3,13 @@ title: "P\\.\_S\\."
 contentType: prose
 ---
 
-  
-
 Octl se tedy na konci – na konci, který je i novým začátkem. Všechno, co se může stát, a všechno, v co lze doufat, je bezpochyby jen obnovení pohybu, jediné, co si může předsevzít, je pokračování v cestě a v postupu, jenž je sám jediným místem, které obývá. Jenom zas vyrazit a jít, znovu nadlehčený průvanem a blížícím se jarem procházet městem, zachytit světlo příčných ulic, na obvodu míjet živé ploty a bzučící pole, cestou zaznamenávat přesuny dalších těl a věcí a číst v nich odraz vlastního údivu nad existencí. Jen tady je už napořád jeho jediný lovecký revír, vždycky jen znovu vyjde měřit den svým krokem, jako tápavou sondou; jeho chůze nechá vystoupit na světlo pouze nejistý šev mezi vnějškem a vnitřkem, cesta, již sleduje – veden signály, které jsou samy ambivalentní, co zároveň hmotná a duchovní fakta –, značí jen společné rozhraní obyvatelného s neobývaným. Mezi snahou dobýt svět a čirým klouzáním po jeho povrchu, pokračováním v cestě a hledáním obydlí, je doma výhradně v elánu, s nímž za chůze spojuje „tady“ s „jinde“, vědomí vlastního já s tím, co ho přesahuje, měření rozlohy se zastávkami, jimiž je prokládá, aby dlouze pozoroval holé pole nebo zářící vidinu salonu v hloubi mlází.
 
 Pohybuje se taky mezi řečí a tichem; jazyk, jenž ho všude doprovází, slova, která připojuje ke svým procházkám, mu pomáhají budovat každou z nich jako pohyblivé obydlí, nestačí je ale vystavět samy. Věci, kolem nichž míjí, vstupují neustále do hry, vplétají do šumu slov vlastní němou řeč, věty, které spolu tvoří a do nichž se řetězí jen tím, jak postupně vyvstávají u kraje cesty. Samo jejich řetězení je přitom dost trhavé a váhavé, každá věc jen neochotně opouští svou ulitu, jako by k ostatním věcem neměla důvěru. Při neexistenci společného obzoru, říká si, který by věci sdílely mezi sebou i s námi, tu předmětnost světa jen čím dál víc překáží, narůstá kolem jako marná zásoba a obklopuje nás stále tíživěji, jako by všechen smysl jsoucího napříště spočíval jen v jeho totožnosti se sebou samým. V touž chvíli, kdy nás jako nikdy vybízí vyrvat mu jeho tajemství, se svět definitivně uzavírá do svých hmot a matérií, rozeřvaný tankovací vůz brzdí v mlze jen proto, aby nám nastavil svou řvoucí masu tankovacího vozu, zabrzděného uprostřed mlhy. Právě neproniknutelnost věcí, to, co nám v nich uniká, nás jistě pořád nutí o nich mluvit. Naše slova sama však před jejich zpupným vsebezahleděním tichnou a ztrácejí hlas; zatvrzelost, s níž věci vzdorují našemu úsilí je vyslovit, osvětlit jejich masu příhodným obrazem nebo formulkou – kdyby jen žertovnou – redukuje naše pokusy na letmé náčrty, prchavé elány a gesta, k nimž chybí pokračování. Z nedostatku prostoru, kde by se mohla rozeznít, vydává řeč jen okamžité signály, v nichž se všechny dlouhodobé perspektivy naráz hroutí jako domek z karet.
 
 Pořád se jistě lze rozpomenout na minulé příběhy, prodloužit v sobě jejich echo a shrnout je do poslední proradné pravdy („Každý z nás je Fantomas!“), kterou vmeteme světu do tváře, nebo ji aspoň něžně pošeptáme do ucha jedni druhým. Slova se při nejmenším dál _snášejí_, kdyby jen jako stále hebčí sníh, podstatná jména protínají vzduch drápkem, přídavná nás nepřestávají hladit; pořád lepší než nic. Zdá se ale, že co jediný společný smysl už slova nedohledně skloňují jenom mlčenlivou neužitečnost všeho. Mlčení samo se naštěstí dál množí a nabývá různých podob, stejně jako způsoby jeho označení; místo ztichlé dratve se vzápětí neslyšně rozcinká hned drát, hned nejapná rolnička datle. Slova už nic neosvětlují, pořád jsou ale schopna trochu provětrat svět a umožnit nám vprostřed jeho haraburdí, jako poslední projev náročnosti a grácie, aspoň pokračovat v dýchání.
 
-\* \* \*
-
-  
+* * *
 
 Den, v němž chodí s Martinem po Botanické zahradě, rozsvítilo suché zářijové světlo, tráva a pěšiny parku v něm vystupují se zřetelností plánu. Zatímco ohledávají terén, procházejí mezi stromy a záhony až na vrchol travnatého návrší, kam vede pěšina zatočená do spirály, hrdina spontánně vnímá jednotlivé části pozemku jako zastávky iniciační cesty; stačí jimi projít ve správném pořadí a s patřičnou pozorností, aby lépe rozeznali své osobní možnosti a karty, které mohou uplatnit ve hře se světem. „Věštecká“ schopnost místa, i když jim v tu chvíli je zřejmá, nepatří nicméně k jeho podstatě; zrodila se z nenadálého souladu mezi místem, odpoledním světlem a pohotovostí, kterou v průzkumnících vzbudilo, je pouze pravdou jednoho dne, již zbývá uložit do místního archivu jako památný příklad ztělesněné možnosti a naplněné šance. K věci došlo tady, místo bylo jejím jevištěm; taky ale pouhým svědkem.
 
@@ -37,9 +33,7 @@ Nanovo se v něm setkávají a shlukují, vzdalují se a znovu vracejí, vše
 
 Všechno jsou pouze roztěkané zlomky, všechno ale dál dává znamení; osud je sotva skica, pořád ale trvá jako možnost v umíněném návratu svých trosek. Už tím, že před hrdinou znovu defilují, oblázek, sojčí pírko, skladiště a _lavatories_ kreslí náznak vzájemné aliance, vzdor prázdnu, které je od sebe dělí, a skládají samy od sebe zápletku a kouzelnické číslo – vždycky už na dosah ruky –, které s nimi neumí sehrát.
 
-\* \* \*
-
-  
+* * *
 
 V tutéž chvíli, kdy se loučí s mopedem, všechno dál obíhá také v dopise, jejž dostal od Martina a jehož do kruhu zatočené věty mu stačí ohlásit, že nadcházející podzim bude i nový rozjezd. Když už jeho výzkumy nevedou dál, než k oživení jeho toužení – myslí si pro sebe –, každá vyjádřená touha aspoň trochu pohne skutečností a trochu jinak ji rozdrnčí; obmění ji podobně, jako skutečnost v odpověď na její naléhání obmění touhu. Něco z našich gest a elánů přece jen ulpívá na věcech, do nichž je vplétáme, ukládá se na místech, jimiž procházíme, a předává jim kus naší existence.
 
@@ -47,4 +41,4 @@ To, co si tu mumlá, je jistě znovu jen pravda jednoho zmateného a osaměléh
 
 * * *
 
-[\*](./resources/undefined) Po letech přesunů se k němu vrátí i Paříž z prvního rána, v němž pře­stoupil její práh. Aby byl nablízku své pozdní partnerce – a lásce –, nastěhuje se do téže čtvrti, kde se tenkrát vylodil, do místa vzdáleného sotva sto kroků od bytu slavného proroka (a od bydliště svých tehdejších hostitelů): zároveň se stane sousedem bývalých veřejných lázní. Bezpochyby týchž, které v to historické ráno objevil na fotografiích v zasklené vitrince, vedle vchodu do prorokova domu.
+_[\*](./resources/undefined) Po letech přesunů se k němu vrátí i Paříž z prvního rána, v němž pře­stoupil její práh. Aby byl nablízku své pozdní partnerce – a lásce –, nastěhuje se do téže čtvrti, kde se tenkrát vylodil, do místa vzdáleného sotva sto kroků od bytu slavného proroka (a od bydliště svých tehdejších hostitelů): zároveň se stane sousedem bývalých veřejných lázní. Bezpochyby týchž, které v to historické ráno objevil na fotografiích v zasklené vitrince, vedle vchodu do prorokova domu._
