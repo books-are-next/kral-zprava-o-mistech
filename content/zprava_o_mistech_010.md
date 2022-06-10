@@ -3,6 +3,8 @@ title: 1/ Cesta ven
 contentType: prose
 ---
 
+<section>
+
 V dětství se místa zdála dána jednou provždy, nezaměnitelná a definitivní. K tomu, abychom jim byli právi, mělo jaksi stačit naučit se je užívat; získat jejich důvěru a uchovat si ji. Zatímco fasádu vily uspávaly vlny léta, dotírající na pískovou omítku, zkoumal ji zevnitř ve snaze objevit její skryté mízy a tajné dráhy uvnitř zdí, kde obíhaly.
 
 V patře se o jeho zvědavost přetahovaly dvě sousední místnosti. Matčin snivý, ale jasný budoár, kam okny – málokdy zataženými – vnikaly záblesky denního světla a vlhčily bílý porcelán sošek rozestavených po dlouhé komodě; trojdílné zrcadlo toaletního stolku, který stál v rohu, ty signály ještě násobilo a odráželo zpátky k nebi. Vedlejší pánský pokoj byl patřičně mužský, jeho temnější, dřevem vyložený interiér působil bezpečněji, ale také odtažitěji. Zasklené dveře na balkon, bílé a naškrobené, jakoby z pavučin utkané záclony, v nichž stávalo měsíční světlo jako mléčná mlha. Vpravo od vchodu na balkon lampa a vedle ní velký tmavohnědý ušák, vévodící přívětivému kuřáckému zákoutí. Opuštěný trůn, který tu po otcově odchodu napříště vládl sám.
@@ -32,3 +34,5 @@ I příroda dostávala smysl hlavně dík pokojům a místnostem, které skrý
 S odstupem let uvidí celé své dětství jako jedno dlouhé letní odpoledne, kde vzdor vedru nepřestává obcházet kolem vily a otírat se o její horké pískové stěny. Když ukončí jeden okruh, začne bez prodlení další, dál sleduje stopu zahradní hadice, která se klikatí na rozpáleném betonu a obtáčí podezdívku domu černou vlnovkou. Marně však vyhlíží její konec; ať sebevíc zrychluje krok, hadice se plynule vine podél zdí jako had, který hryže vlastní ocas. Přesto zatvrzele pokračuje v chůzi, jako by hledal zároveň nemožný východ a nenalezitelný vchod: spásnou skulinu v horkem ztěžklém vzduchu, kudy by unikl ze známého světa, a trhlinu v zemi nebo v průčelí, kterou by vklouzl hloub do skutečnosti a vnikl do její intimity, pěkně pod kůži.
 
 Občas, když na celý večer zůstal ve vile sám, se jistě radoval, že má pro sebe vlastní kus noční tmy; zatímco prostor se plnil jen tepem v jeho žilách, musel jej však znovu vyklidit pod tlakem strachu. Opatrně za sebou zavíral dveře a stahoval se z místnosti do místnosti, až se nakonec octl v koupelně, tváří v tvář zrcadlu. Všechno tajemství tu bezpochyby uvízlo s ním, náhle přistižené v té _druhé_ koupelně, kterou viděl vyvstávat za dvojníkem v zrcadle a v hloubi jeho zorniček. Zůstávalo ale mimo dosah, když k němu chtěl proniknout, tloukl jen hlavou do skla. Ani odtud nevedla cesta dál, důvěrný prostor okolo byl nová klec.
+
+</section>

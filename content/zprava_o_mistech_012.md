@@ -3,17 +3,31 @@ title: 3/ Území
 contentType: prose
 ---
 
+<section>
+
 Narodil se jako městský člověk, od města, které obýval, jej ale dělilo rozlehlé pole. Svět a jeho tajemství před ním vyvstávaly na obzoru jako pouhá vidina, slib chystající se naplnit, ale jakoby odkládaný na později: dosažitelný až po výjezdu a cestě do světa. Bylo třeba vyjít před vilu, obrátit se k ústí ulice vpravo, za nímž zívala pláň jako věčné nazítří, dojít k ztuhlým vlnám oranice, uctivě před ní uhnout doleva a pomalu scházet – po mezi nebo podél vil naproti poli – až na dolní okraj svažujícího se parku, odkud se odjíždělo tramvají do městského středu. Než tam došel, minul několik pastí; jako tu hranatou prohlubeň se železným víkem, která se vynořila asi uprostřed cesty, na úpatí domu, kde sídlil dost nevlídný výčep piva. V jednom zimním ránu, cestou do školy, uviděl propadliště otevřené, rozzívlé dokořán mezi cáry mlhy. U chodníku stál velký nákladní vůz, nemluvní a masivní mužští z něj vážně skládali sudy a s matným duněním je spouštěli po provaze do podzemí, jako velké vyduté rakve.
 
 Šlo přitom o pouhý signál, za nímž se hlásila rozsáhlejší past. Všude kolem výčepu se zvedaly další výzvy, jako by označovaly celé zvláštní území a sváděly k jeho pozornému průzkumu. Pouštěl se do něj hlavně při návratu, když zvolna stoupal do svahu k vile a mohl se kolem sebe rozhlížet s větší pozorností a rozvahou. Zatímco pole – a na jeho obzoru záhadný ostrov křovin, obehnaný zdí bez vchodu – teď míjelo po jeho levici, vynořilo se před ním (když prošel kolem parku) napřed nároží, jehož přízemí zabíraly tři krámy: uprostřed starý koloniál, kam se vcházelo přímo z rohu (A), a po stranách dva další obchody. První z nich už patřil k příčné ulici, která od pole stoupala doprava (B), druhý, jejž míjel bezprostředně za koloniálem, vyhlížel naopak rovnou do pole (C).
 
 Po tom, co ho nechal za zády, šel napřed podle plotu nevelké zahrady (D), až znovu dorazil k domu s výčepem (E’), tvořícímu druhý roh bloku. Ještě dřív, než se octl před jeho strohým průčelím, zahlédl ale i boční (a „privátní“) stranu domu, odkud mu kynula přes plot zasklená, do zahrady obrácená veranda (E’’). Ani výčepem však všechno nekončilo. Když za ním zahnul do další příčné ulice, o kus dál, u levého chodníku, ho ještě čekalo to, co k jeho průchodu územím přidalo závěrečný akord: secesní vila s nehlubokým reliefem v průčelí, kde klečela mezi okny neznámá nahá kráska (F).
 
+</section>
+
+<section>
+
 ![](../Images/003.jpg)
+
+</section>
+
+<section>
 
 * * *
 
 Znovu se octl na stopě. Pokaždé, když územím prochází, jsou pro něj jednotlivé zastávky první orientační body, na jejichž základě jednou objeví – přímo na místě – rozhodující tajemství; i tady se zjevně odehrává skrytá část jeho vlastního života. Znamení ostatně časem dál přibývá. Dveře rohového koloniálu se jednou zničehonic zavřely a navždy zahradily cestu do přítmí, kde starý majitel v bílém plášti, vždycky čerstvě vypraném a jakoby jiskřícím čistotou, trávil čas lovením kyselého zelí z velkého dřevěného sudu. P., jeho soused holič, se aspoň z jednoho přilehlého krámu přesunul do druhého a po lokálu na kraji příčné ulice zavěsil svou plentu z chřestivých korálků do dveří toho, odkud byl výhled na pole. Návěští jeho salonu, tradiční zlatý talíř, pak zvlášť působivě odráželo mrchoviště vyoraných hrud a vzdouvalo den co den jejich obraz svým zaoblením, než jeho lesk znovu pohasl v popelu stmívání.
+
+</section>
+
+<section>
 
 ![](../Images/004.jpg)
 
@@ -48,3 +62,5 @@ Prozatím nicméně pokračuje v chůzi. Po tom, co pod železným víkem zahl�
 * * *
 
 _[\*](./resources/undefined) Viz přílohu na konci svazku._
+
+</section>

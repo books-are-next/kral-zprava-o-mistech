@@ -3,6 +3,8 @@ title: DOKUMENTY
 contentType: prose
 ---
 
+<section>
+
 Vila
 
 _Ve zvířeném prachu se zatřpytí  
@@ -19,4 +21,10 @@ je to teď pavouci škrábou dosud bílé údy
 a uvádějí do chodu zazděný kolovrátek pohyblivou cihlu v koutě  
 i těžká vrzající vrátka pokrytá vlhkým mourem_
 
+</section>
+
+<section>
+
 ![](../Images/013.jpg)
+
+</section>

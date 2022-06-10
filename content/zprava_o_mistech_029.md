@@ -3,17 +3,27 @@ title: "Návštěva v\_rue Montmartre"
 contentType: prose
 ---
 
+<section>
+
 _Souřadnice_
 
 K návštěvě došlo v sobotu 2. května, mezi jednou a druhou odpoledne. Fotografie, jimiž jsem chtěl tento záznam doprovodit, jsem pořídil – v téže denní době – až 5. května, abych předem neomezil volnost svého pohledu.
 
 Náhoda mi jméno ulice označila 1. května, ústy kamaráda, který mi navrhl zajít na večeři do místní restaurace – společně s dalšími českými přáteli, kteří emigrovali do Basileje a projížděli právě Paříží na cestě do Londýna. Stojí za zmínku, že kamarád se spletl: restaurace se ve skutečnosti nachází v rue _Faubourg_ Montmartre, kde kdysi pobýval také Lautréamont[\*](./resources/undefined). Spolu s „objek­tivní náhodou“ tak o volbě „mé“ ulice rozhodl i chybný výkon.
 
+</section>
+
+<section>
+
 _Pozorování_
 
 Od první chvíle mi rue Montmartre zjevně vychází vstříc. Hned vedle východu z pasáže (Panoramas), odkud do ní vcházím, dává biograf _Melodii v podzemí_, film, k němuž mě vážou zvlášť důvěrná pouta. Ve vstupní chodbě kina navíc zahlédnu větrací vedení podobné tomu, které hraje ve filmu podstatnou roli. Naproti biografu – na levém chodníku – zas objevím reklamu s obrázkem nezapomenutelného Pepka (námořníka) z kreslených seriálů a filmů, hrdiny, který významně poznamenal mé dětství, ale o jehož existenci jsem dosud ve Francii nenašel jediné svědectví. (Podle „zákona série“ ho samosebou zakrátko uvidím znovu, v kiosku s obrázkovými časopisy.) Ve stejné výloze si všimnu i oznámení, že kdosi chce zaměstnat zkušené _kráječky_ („coupeuses“; též řezačky, ustřihovačky). Ve výkladu vedlejšího knihkupectví kniha s titulem Son Altesse la Femme – Její Veličenstvo Žena. Kniha je antikvární, s krásnou starou vazbou. Na velkém „F“ slova Femme sedí motýl, jako na vrcholku květiny. Uvědomuji si, že když jsem se předtím, na Haussmannově bulváru, rozhodl _nevstoupit_ do jiného knihkupectví, ve snaze „šetřit si síly“, všiml jsem si nicméně titulu jedné ze zlevněných knih vystavených v ošatce před krámem: bylo to pojednání o motýlech.
 
 Obracím teď pohled k pravému chodníku. Přímo proti sobě mám kuriozní krám, jehož návěští nabízí zároveň rasoirs (břitvy, holicí strojky) a beauté par les plantes (krásu s pomocí rostlin: „rostlinami ke kráse“). Přecházím ulici: obchod je nejspíš v likvidaci, vnitřek je vyklizen, ve výloze zůstalo jen pár krabiček, na nichž se opakuje obrázek téhož (elektrického) holicího strojku.
+
+</section>
+
+<section>
 
 ![](../Images/014.jpg)
 
@@ -27,6 +37,10 @@ Asi v půli cesty přicházím na další nároží, když se náhle ulice tém
 
 Nejpřekvapivější objevy mě ale čekají až ve druhé části ulice, za nárožím, kde jsem se zastavil. Zlákán kavárnou etoile (Hvězda) na druhém (pravém) chodníku, přejdu k němu přilehlou křižovatku pěkně napříč („jako hvězdný paprsek“), místo kavárny vstoupím ale do domu, jehož je součástí. Třebaže vyjdu až do posledního patra, narazím tu pouze na nepřítomnost jakýchkoli známek života; stísňující dům s nebývale úzkým schodištěm myslí zjevně jen na smrt. Přesto zas zavřu okno, z něhož jsem vyhlédl do dvora, aniž bych tam skočil, a znovu sejdu dolů. Když vycházím na ulici, všimnu si na zdi pod schodištěm zažloutlých „Pokynů obyvatelstvu pro případ povodně“, které tam nejspíš visí od začátku století. I od budoucnosti ale dům zřejmě čeká jen pořádnou povodeň, která ho definitivně zaplaví od sklepa po půdu.
 
+</section>
+
+<section>
+
 ![](../Images/015.jpg)
 
 …garáž, jejíž vývěsní štít je složen z fragmentů pomuchlaných karoserií…
@@ -35,6 +49,10 @@ Před další cestou proklouznu jen tak tak mezi dvěma auty (jistěže zaparkov
 
 Poblíž garáže mám ještě čas si všimnout starého a dost podivuhodně ohlodaného nápisu, z něhož zbývá jen to, co nazvu „Zmrzačeným dnem“ (Journée mutilée – viz fotografie) – a ubírám se k ústí ulice. Než tam ale dorazím, musím ještě projít kolem řeznictví. Na rozdíl od goldschmidta je otevřené a nese název dům pražské šunky (sídlí navíc v čísle 13)… Když ulici opouštím, vyčerpání, které pociťuji, plně odpovídá zvláštnímu odporu, s nímž jsem musel zápolit před její návštěvou. Poslední úsilí už vynaložím jen na to, abych sebral po vzorku od obou druhů smetí, červeného i modrého, které doslova vystýlá konec ulice (k níž patří i rozsáhlé tržiště).
 
+</section>
+
+<section>
+
 _Ozvěny, dodatečná prodloužení_
 
 Když se vracím domů v metru, v novinách jednoho z pasažérů si všimnu fotografie, která ukazuje psací stůl jakéhosi politika (snad M. Debré) pokrytý nesourodou tříští po výbuchu plastické bomby. Líbí se mi uvést fotografii do vztahu s vozovkou pokrytou zbytky trhu, na niž jsem se díval chvíli předtím.
@@ -42,6 +60,10 @@ Když se vracím domů v metru, v novinách jednoho z pasažérů si všimnu 
 Ještě ten večer se znovu vidím s přítelem Pavlem, který odjíždí do Londýna den nato. Sdělí mi, že jen o málo dřív, než jsem se zastavil před garáží s návěštím ze zbytků karoserií, si na Bleším trhu u porte de Clignancourt prohlížel zvláštní obraz-objekt, jehož součástí byl model auta složený z různých součástek starého rádia; spontánně v tom vidím „optimistickou“ variantu „svého“ návěští.
 
 V úterý 5. května, kdy se do rue Montmartre vrátím kvůli fotografiím, tu samosebou udělám další objevy. Zvlášť mě potěší zjištění, že řada zdejších obchodů a podniků zjevně skrývá jiná zařízení – jak z toho už léta podezřívám většinu krámů, kolem nichž procházím. Řeznictví se například ukáže být poštou, při nejmenším právě na mém snímku (kde z nápisu na stříšce krámu zbyla jen slova la poste), tiskárna, díky příjmení svého majitele (moulin), je zároveň mlýn.
+
+</section>
+
+<section>
 
 _Závěry_
 
@@ -63,6 +85,10 @@ Nejpevnější pouto mezi Amerikou a Otcem, zároveň přímé a temné, vznik
 
 V _rovině Onoho_ by jistě bylo snadné převést můj „případ“ na strach z přílišného oddálení od matky a úkrytu pod jejím ochranným křídlem – matky, o niž se tu přu s americko-australským otcem (a která s ním zápolí o mne) jak v podobě rodné země, tak v převlečení za botu. Některé momenty společné návštěvě ulice a snu však vnášejí do hry další významy, schopné ji přinejmenším trochu zkomplikovat. Jde hlavně o víceméně zastřené narážky na nového přítele, který žije v Anglii a s nímž jsou spojeny znepokojené otázky, jež si prostřednictvím snu kladu ohledně své homosexuální komponenty. Tady zřejmě spočívá jak hlubší význam hotelu anglie, tak smysl holandské vlajky; Eiffelova věž (ke všemu i zvlášť parádní „falický symbol“), jejíž společné zlézání s dotyčným je hlavním zdrojem celého snu, byla při naší návštěvě doslova zaplavena holandskými turisty…
 
+</section>
+
+<section>
+
 ![](../Images/016.jpg)
 
 …i vyjížďka k moři se mi zdá opravdu vydařená až ve chvíli, kdy v Deauville fotografuji pár kožených papučí…
@@ -76,3 +102,5 @@ _[\*\*](./resources/undefined) Jiné krámy téhož řetězu obchodů nesly pou
 _[\*\*\*](./resources/undefined) Jméno je rovněž příznačné svým vztahem ke zlatu (a k penězům), výsost­­né­mu symbolu „úspěchu“._
 
 _[\*\*\*\*](./resources/undefined) Teprve po letech se dovím, že ve skutečnosti odcestoval... do Ameriky._
+
+</section>

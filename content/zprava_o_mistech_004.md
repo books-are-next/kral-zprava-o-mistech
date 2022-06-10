@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Zpráva o místech](https://search.mlp.cz/cz/titul/zprava-o-mistech/2709565/#/) tak, jak bylo vydáno nakladatelstvím Torst v Praze v roce 2008. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 19. 2. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

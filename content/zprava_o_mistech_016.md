@@ -3,6 +3,8 @@ title: 6/ …čili cesta kolem ničeho
 contentType: prose
 ---
 
+<section>
+
 „Muzeum Madame Tussaud je pusté.“  
 Zelda Fitzgerald (_Vyhraďte mi ten valčík_)
 
@@ -69,3 +71,5 @@ Nejlepší způsob, jak na to odpovědět – říká si na závěr – je mo�
 * * *
 
 _[\*](./resources/undefined) Skutečná nebo pomyslná: vidí-li ve věžích slavného pivovaru „zestárlou pev­nost“, přikrčenou v ohybu řeky – zdá se mu – jako by už Plzeň chtěla opustit, znovu tím především zrádně popírá význam, který se pivovaru oficiálně při­kládá – i světový věhlas, na němž spočívá._
+
+</section>

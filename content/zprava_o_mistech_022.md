@@ -3,6 +3,8 @@ title: 10/ Paříž
 contentType: prose
 ---
 
+<section>
+
 Když poprvé přijíždí do Paříže, má tu hned dvojí poslání. Co vyzvědač ve vlastních tajných službách se chystá město prozkoumat s nadějí, že v něm najde pár záchytných bodů pro svůj další život; cesta ho zastihla ve chvíli, kdy se octl na rozcestí, cizí metropole před ním otevírá prostor, kde se bude konečně moci vzdálit od vily a obývat vlastní nejisté úkryty. Zároveň je ve městě jako vyslanec tajné společnosti, s níž – spolu s nejbližšími přáteli – je spjat už několik let a která se snaží obnovit styky s příbuznou společností v Paříži. Ten, kdo v jednom zářijovém ránu vysedá na Východním nádraží, je přitom pouze němý mluvčí, a nejen proto, že nemluví jazykem svých hostitelů.
 
 Na křižovatce, kam došel, k němu doléhají jenom němé pokyny průvanu a zčeřeného vzduchu, vědomí rozhraní, které se chystá překročit, ho jako nikdy činí pozorným k pouhému klouzání věcí a k tichému dýchání pauz mezi dvěma událostmi nebo signály. Sám je pouhé klouzání, poznává se jen ve svých náhlých „výpadcích“, ochabnutích a zatměních, kde se ztrácí vprostřed dne po každé myšlence a gestu, aby se odtud vzápětí vynořil jako z bezedné studny. Hlubina studny se zdá být jeho jedinou pravdou, blíží se své skutečné existenci právě ve chvíli, kdy ho tělo i duch opouštějí a mizí v nedohlednu. I kdyby chtěl podstoupit tu krajní zkoušku, jíž je sebevražda – říká si poťouchle –, vjel by nejspíš nožem jen do prázdna… Prázdno se právě tak vtírá mezi jeho slova a věci, které chtějí označit, mezi jeho řeči a jeho činy.
@@ -21,6 +23,10 @@ Zvlášť proradné přijetí ho čeká na noční avenue, kde se podle rady sv�
 
 Ticho přitom nebude úplné; Paříž se sice nechce podrobit předepsanému jazyku, zároveň ale jako by mluvila jinou, vlastní řečí, třebaže lakoničtější a skromnější. Dvě makety v podobě velkých flakonů, které se střídavě rozsvěcejí na rohu nedaleko prorokova bydliště – kde je výzkumník objevil hned po příjezdu – jsou nesporně něco zcela jiného než to, co v nich chtěl vidět nejdřív: „spojité nádoby“ z titulu slavné prorokovy knihy. Ani dvě žárovky ve vitrince veřejné váhy, které se podobně vidí rozžíhat – právě tak střídavě – na kraji jinak temné ulice Faubourg St-Martin, jej neuvedou na stopu žádné sítě znamení a koincidencí; váha, pouhá replika reklamy z Pigalle, jednoduše přidává své bludičky k jejím flakonům, zdvojuje jejich blikání svým vlastním a rozjíždí ho v temné ulici sama za sebe, týmž kyvadlovým pohybem, v jehož umíněném opakování spočívá celá její sláva. Do nedohledna nic než ten zároveň živý a ustrnulý elán, otázka následovaná místo odpovědi jen vlastní ozvěnou. Od flakonu k flakonu a od záblesku žárovky k žárovce-záblesku, z Pigalle na Faubourg St-Martin a zpátky; jednou z té a jednou z druhé strany téhož mlčení, téže nehlasné rozlohy noční tmy. Marně chce vidět znamení navíc v tom, že na váhu naráží při hledání kavárny, již kdysi rovněž navštěvoval autor Spojitých nádob; blikající předmět je v pusté a neosvětlené ulici jen zarputilý památník sebe sama.
 
+</section>
+
+<section>
+
 ![](../Images/006.jpg)
 
 Dvě makety v podobě velkých flakonů, na rohu nedaleko prorokova bydliště…
@@ -37,9 +43,17 @@ Občas z města zachytí jenom drobný záchvěv, zvlnění břečťanového z�
 
 Každá z těch němých zpráv jistě jen ještě víc rozostří jeho myšlení, nadlehčení, které v nich nachází, také dovršuje jeho zmatek. Začne tak nakonec své dobývání města chápat jako sled pouhých proher a ztrát, a vidět jeho smysl v čirém plýtvání; když se v pozdních hodinách vrací ke svým hostitelům, hází marnotratně drobné toulavým kočkám, přeje si dokonce nakoupit drahé voňavky jen proto, aby je v noci rozléval po pustých křižovatkách. Od prodejné dámy by za své peníze nechtěl víc, než aby se s ním trochu líbala v parku – a dala se pak ctnostně doprovodit domů. Jeho cestovní deník stačí ilustrovat snímek výlohy, kterou v den, kdy ho přišel pořídit, našel zavřenou; neměl by jistě zapomenout ani na fotografii plakátu, na němž žena ukazuje hladká, žádnou střílnou nenarušená záda. Neodveze si taky jediný suvenýr, až na kalíšek, který _nechá_ ve výloze starožitnictví i s nerozbitným mramorovým vejcem, s nímž navždy srostl.
 
+</section>
+
+<section>
+
 ![](../Images/007.jpg)
 
 Dělník nese městem jen prchavý odlesk na plechovém plátu, prázdný kruhový rám nad krámem není víc než obruč pro salta zčeřeného vzduchu.
+
+</section>
+
+<section>
 
 ![](../Images/008.jpg)
 
@@ -58,3 +72,5 @@ Jako by mu to mělo pomoci v pochopení malířova poselství, pro­žije hrdin
 To, co ho vede dopředu, je konečně právě nepřítomnost věcí; jde jenom za tím, co dosud chybí tam před ním, za věcmi, které teprv pozná, a za tím _druhým_, v nějž se až časem změní sám. V tuto chvíli si ničím není jistý, začlo jen trochu poprchávat; pojednou – už na cestě k letišti – se ale cítí bohatý vším prázdným prostorem, který se před ním otvírá mezi velkými písmeny reklam, na panelech přibíhajících netečně pozdravit netečné ubíhání dálnice. Náčrt pařížského pobytu, který za sebou nechává, ho svými zámlkami a svou nedovršeností vybízí už teď, aby se do města vrátil, a dává mu dost důvodů a sil k odjezdu z míst, kde to příliš zná.
 
 Ztratil-li v cizím městě řeč, bylo to ostatně i proto, že mu tu náhle chyběla ta syntaxe, která jeho slova spojuje a rozhýbává v kontaktu s přáteli, s těmi, kterým je adresuje a které musel nechat v rodném městě, aniž měl možnost – z nedostatku času – najít jim podobné mezi pařížany. K tomu, aby mu Paříž ztracenou řeč vrátila – myslí si –, by stačilo, aby tu prožil nová setkání, znamení města by přestala být nečitelná, kdyby je dešifroval s někým blízkým. Natož s tou, která prozatím jen chybí na jeho obzoru, ale jejíž kroky se už teď slyší přibližovat, čím dál zřetelněji, za stěnou ticha. „Celou svou první osobou jednotného čísla“, píše si na závěr do deníku, „se obracím k lásce, která přijde. A k budoucím fackám. A k lásce.“ O něco dál lze už teď číst seznam věcí, které si před příští cestou musí přidat do kufru: aspirin, toaletní papír, druhé kalhoty, jehlu a nit.
+
+</section>

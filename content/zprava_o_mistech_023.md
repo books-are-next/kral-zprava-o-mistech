@@ -3,6 +3,8 @@ title: 11/ Vyjet
 contentType: prose
 ---
 
+<section>
+
 Nebude čekat dlouho; už o rok později využije nového zádrhele v dějinách své země, opustí vilu i rodné město a odjede do Paříže znovu, tentokrát bez zpátečního lístku; metropole se mu stane novým sídelním městem, kde se znovu učí zároveň mluvit a žít. Ticho, s nímž se ve městě střetl rok předtím, se konečně protrhne a postupně – jak vplétá do tkáně města vlastní přesuny – se rozezní, Paříž začíná ožívat, odpovídat a jít mu vstříc. Gesta, která tu zůstala nedokončená a ztuhlá, pokračují v přerušeném elánu a vplývají spolu s dalšími do příboje dní, přízrak hovězí kýty znovu těžkne, mění se ve skutečné maso a vrací se na rameno řezníka, který si je jen trochu nadhodí a zmizí s ním v krámě; nestoudné Ježíšovo gesto zasuté v přítmí Notre-Damu se vynoří vprostřed dne, změněné v opovážlivost automobilové antény, která se odráží ve výloze a vniká špičkou do dalšího masa, rozvaleného za jejím sklem. Kde předtím město vysílalo k průzkumníkovi jen nehybná a neprostupná znamení, uvolňuje teď jeho živý masiv čitelná sdělení; stačí trochu poodstoupit a bledé papírky na výkladním skle vydají své poselství, nejasné čmáranice, jimiž jsou pokryty, utvoří písmena a spojí se uprostřed noci ve zřetelný nápis VENTES – výprodej. Díra vyražená v sousední ohradě se navíc k anonci přidá jako zřetelná pobídka k dalšímu průzkumu noční tmy; znamení, která mu věci dávají, vystupují z izolace a zřetězují se do souvislých vět a obratů, k obrazu těch, jež stále přirozeněji formuluje v jazyce země. Největší pokroky ostatně dělá díky té, v níž tu opravdu našel novou lásku; neseznamuje se jen s francouzštinou, ale znovu i se samotnou existencí.
 
 Je pravda, že jeho utkvělé představy přijely do Paříže s ním; ani při průzkumu nových míst – a pokusech si je přisvojit – se nevyhne některým navyklým reflexům. Dokonce jako by se opožděně snažil splnit úkoly, které zanedbal při předchozí cestě – kdyby jen proto, aby se tak pařížské lóži své sekty odvděčil za pozornost, s níž mu pomohla ve městě přistát. Znovu si od sekty půjčuje i rituální jazyk, jako při výzkumu, který podnikne s několika čerstvými přáteli a za nímž se každý má vydat do první ulice, jejíž jméno uslyší vyslovit po určeném datu. Třebaže rue Montmartre, která mu připadne, jej přitahuje z celé řady důvodů, začne její lákadla znovu dešifrovat a třídit pomocí zavedených klíčů, na základě koincidencí a symbolického výkladu fakt. Vzdor jedinečnosti, s níž na něj poklady ulice působí, je zkouší rázem převést na pár obecných idejí a shrnout je do společného poselství: je pozornější k nápisům na vývěsních štítech než ke skutečným krámům, před nimiž štíty visí, přikládá větší význam tomu, že v ulici převládají modrá s červenou, než předmětům, k nimž ty barvy patří. Odvrací se dokonce od fakt k nedávnému snu, aby jejich smysl hledal v jeho obrazech. Síť znamení, kterou tak věci překrývá, samosebou odráží hlavně to, čím se v té době denně obírá: má-li či nemá odjet do Ameriky, rozhodnout se pro vzdálený apel otce-světoběžníka nebo pro důvěrnost mateřské náruče.[\*](./resources/undefined) Ještě o rok později, kdy mu nová návštěva ulice odhalí relativitu závěrů, které vyvodil z té první, zůstává zajatcem týchž idejí, věci mu jen vracejí jejich ozvěnu; konkrétní svět je pouze pobledlý přízrak zastřený mřížkou pojmů.
@@ -11,9 +13,17 @@ To, co ho k ulici táhlo, bylo přitom něco zcela jiného; zatímco připravov
 
 Slovo POŠTA na stříšce před vyklizeným řeznictvím právě tak jen prohlubuje prázdno, které z krámu dýchá, krám je díky němu jen lépe jeskyní, kde z pokladů zbyla pouze slabá vůně krve a pár holých, z šera probleskujících háků. (Už pustý výklad v jeho rodném městě na něj zazíval jako nikdy díky slovu HOUSLE, které zůstalo vyznačeno na skle.) Na posledních snímcích, jimiž svou zprávu doprovodil, zachytil ostatně jen pár slunečních skvrn třísnících kovový oblouček před temným průjezdem; namísto závěru pouze němé svědectví o míjení času a o křehké přítomnosti věcí. Už kontrast mezi snímky a textem zprávy tak stačí prozradit, že v ní o svém průzkumu neřekl všechno.
 
+</section>
+
+<section>
+
 ![](../Images/009.jpg)
 
 …zbytky oprýskaného nápisu na hotelové fasádě…
+
+</section>
+
+<section>
 
 ![](../Images/010.jpg)
 
@@ -41,6 +51,10 @@ Jeho mansarda bude pouhým předsálím; postupně rozšíří své výzkumy i 
 
 Třebaže krátce po představení velký byt zas opustí, jako každé jiné jeviště, nechá v něm ostatně i skutečnou zdechlinu. Ve svém příštím útočišti – podstatně skromnějším – se jednou večer spokojí tím, že pokryje stůl jídelny zeleným suknem, jedním vrhem po něm rozhodí své kostky a zavolá hosty, aby jim tu nenadálou hernu předvedl za letmo pootevřenými dveřmi. Tentokrát se mu nelíbí jen to, že místnost na chvíli unikla své všední identitě; právě tak ho těší, že vizi dalekého hráčského doupěte přibil k přítomné chvíli a spojil ji s nenávratným průběhem večírku, prožitého teď a tady.
 
+</section>
+
+<section>
+
 ![](../Images/011.jpg)
 
 …vysoká tovární okna, orámovaná úzkými hranatými pilíři a římsami, kreslí na průčelí pouze strohou geometrickou mřížku…
@@ -52,3 +66,5 @@ _[\*](./resources/undefined) Viz podrobný záznam o jeho průzkumu otištěn�
 _[\*\*](./resources/undefined) Jinak, napadne ho, tomu nejspíš nebylo ani se znamením, za něž měl kdysi prorok sekty staré návěstí obchodů s uhlím a dřívím; i to k němu asi napřed (ne-li hlavně) mluvilo jako jedinečný objekt, svou konkrétní podobou a čistě hmotným tajemstvím._
 
 _[\*\*\*](./resources/undefined) Jeho zpráva o druhém průzkumu ulice je v tomto smyslu zvlášť výmluvná: čte-li tu dál umíněně fakta jako symboly – které mu střídavě radí a nedoporučují odjet za moře –, je to ve skutečnosti jen zvláštní nasvícení, díky němuž prožívá hlouběji všední situace (jako návštěvu v dopoledním bistru)._
+
+</section>

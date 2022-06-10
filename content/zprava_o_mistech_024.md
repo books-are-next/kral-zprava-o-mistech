@@ -3,6 +3,8 @@ title: 12/ Fasáda
 contentType: prose
 ---
 
+<section>
+
 Podél nadzemní dráhy metra, v němž denně projíždí městem ve snaze vyhovět svému zaměstnavateli, vyhlíží pokaždé – jako své osobní bóje – pár drobných atrakcí schopných rytmicky rozčlenit cestu a zpestřit její jednotvárnost. Červené, modré a žluté destičky vystavené na jakési střeše hryžou ranní vzduch barevnými zoubky, v hloubce neznámého bytu září v protisvětle vitráž podobná okénku rodinné hrobky, co náhle odhalený rentgenový snímek nebo světlotisk na bankovce; z mládeneckého bytu pod tratí zívá za otevřeným oknem pokaždé jiná zřícenina téže postele, opuštěné v panice chvíli předtím. Plátěná stříška, která na kraji velkého náměstí nastavuje nebi velký nápis PIANOS (piána), je schopna nechat ujet myšlení zvlášť daleko: až k představě horkého odpoledne a lehkého letního zemětřesení, po němž by zpod stříšky vyhřezla jediná noha černého Steinwaye, co sonda nehybně zkoumající pustý chodník. Nic z toho však tolik neláká a nedráždí jako Stanice, vysoká stavba, která se tyčí uprostřed cesty a zdá se rázem hodná i hlubšího průzkumu. Mezi všemi úkryty, které náš hrdina napříště zkouší obývat, aniž si skrývá jejich křehkost, si budova uchovává přitažlivost skutečné záhady, ne-li posledního „pravého“ místa.
 
 Upoutává přitom pozornost – lze-li to tak říct – jen svou jedinečnou neosobností. Monumentální vjezd a vysoká tovární okna, orámovaná úzkými hranatými pilíři a římsami, kreslí na průčelí pouze strohou geometrickou mřížku podobnou šachovnici nebo předpisově čtverečkovanému papíru, jejž připomíná i rozčlenění oken na drobné tabulky. Jen tak tak, že kresbu nadlehčuje mírné zaoblení horních rohů oken; několik rovnoběžných, kolmých nebo vodorovných rysek hloubících místy jinak holé zdivo jen zdůrazňuje jeho nahotu. Je pravda, že nápis vyrytý tiskacími písmeny nad vchodem, sám spíš diskrétní, stačí přísnou čistotu fasády trochu zakalit: záhadně nepřípadné a cizokrajné jméno STANICE LAOS mění rázem ostentativní strohost budovy v perfidní výzvu.
@@ -113,6 +115,12 @@ Poslední místo, které ho zaujme, je samo rozhodně natočeno ven, vzdor tomu,
 
 Tiché dýchání, které z budovy cítí vycházet, tlumený dech starců, kteří tam už vychutnávají přítomnost v očekávání blízkého konce, spojuje jistě otevřenost místa i s hrozbou posledního, definitivního obnažení. Než k němu dojde, celé tajemství se nicméně nabízí v prázdné záři, která stoupá z Residence na povrch chvíle a v níž splývá jen s průzračnou sítí možných cest, jež bude třeba vepsat do prostoru.
 
+</section>
+
+<section>
+
 ![](../Images/012.jpg)
 
 Když kolem prochází v ranním slunci, ostře bílá budova mu nabízí jen oporu pro další chůzi…
+
+</section>
