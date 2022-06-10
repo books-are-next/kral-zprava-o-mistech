@@ -3,6 +3,8 @@ title: 7/ Do Ameriky
 contentType: prose
 ---
 
+<section>
+
 „Amerika je buď právě tady, nebo není nikde.“  
 Novalis
 
@@ -71,3 +73,5 @@ Klid a rozloha Central Parku ho právě tak stačí naplnit štěstím, v ten 
 * * *
 
 _[\*](./resources/undefined) Nic – a nikoli prázdno, jehož chuť tak rád cítí v bezkrevných salámech z Marais. Někam doprostřed, mezi sníh a prach, by nejspíš patřilo bílé vepřové filé, upečené tak, že se rozpadá na drobky; to, které mu kdysi učarovalo při památném obědě u tety. Filé, skrz něž zas zjevně ochutnal jinou vzácnou substanci, samu dřeň papírmaše... Jak je vidět, záliba ve fádnosti ještě nevylučuje labužnictví._
+
+</section>
