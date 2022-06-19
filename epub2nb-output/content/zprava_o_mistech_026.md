@@ -7,7 +7,7 @@ contentType: prose
 
 Vila
 
-_Ve zvířeném prachu se zatřpytí  
+Ve zvířeném prachu se zatřpytí  
 křemínky na průčelí vily Neváhej teď vyhledat v odpoledni ten  
           ztracený dům  
 dokud trvá iluminace léta dokud proplouvají v trhlinách fasády  
@@ -19,7 +19,7 @@ na rubu žije dál ve sklepním chladu
 je to teď pavouci škrábou dosud bílé údy  
 údy se chvějí v pletivu lesklých pavučin  
 a uvádějí do chodu zazděný kolovrátek pohyblivou cihlu v koutě  
-i těžká vrzající vrátka pokrytá vlhkým mourem_
+i těžká vrzající vrátka pokrytá vlhkým mourem
 
 </section>
 

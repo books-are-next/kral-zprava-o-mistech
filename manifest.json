@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-zprava-o-mistech-e22371d",
-  "revision": "e22371d",
+  "identifier": "kral-zprava-o-mistech-a6c7b65",
+  "revision": "a6c7b65",
   "readingOrder": [
     "promo.html",
     "zprava_o_mistech_005.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sun Jun 19 2022 09:46:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655632007273
+    "date": "Sun Jun 19 2022 10:07:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655633274600
   },
   "documents": [
     {
@@ -502,8 +502,8 @@
     {
       "title": "V panství bodláků I",
       "file": "zprava_o_mistech_027.html",
-      "words": 331,
-      "chars": 2005,
+      "words": 330,
+      "chars": 2004,
       "ideas": 51,
       "role": "chapter",
       "order": 23,
@@ -522,8 +522,8 @@
     {
       "title": "V panství bodláků II",
       "file": "zprava_o_mistech_028.html",
-      "words": 498,
-      "chars": 2794,
+      "words": 495,
+      "chars": 2791,
       "ideas": 70,
       "role": "chapter",
       "order": 24,
@@ -642,13 +642,13 @@
   ],
   "totals": {
     "all": {
-      "words": 47596,
-      "chars": 295801,
+      "words": 47592,
+      "chars": 295797,
       "ideas": 543
     },
     "chapters": {
-      "words": 47446,
-      "chars": 294857,
+      "words": 47442,
+      "chars": 294853,
       "ideas": 522
     }
   }

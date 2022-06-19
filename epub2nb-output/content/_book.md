@@ -114,11 +114,11 @@ tocBase:
         title: DOKUMENTY
         hiddenTitle: false
       - link: zprava_o_mistech_027.html
-        title: V panství bodláků I
-        hiddenTitle: true
+        title: "V\_panství bodláků I"
+        hiddenTitle: false
       - link: zprava_o_mistech_028.html
-        title: V panství bodláků II
-        hiddenTitle: true
+        title: "V\_panství bodláků II"
+        hiddenTitle: false
       - link: zprava_o_mistech_029.html
         title: "Návštěva v\_rue Montmartre"
         hiddenTitle: false

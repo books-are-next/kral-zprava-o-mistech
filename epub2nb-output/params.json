@@ -25,12 +25,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "centered": ".*uprostred.*",
+      "verse": "",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -108,8 +108,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_007.md",
@@ -121,8 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_008.md",
@@ -134,8 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Jako každé šetření..."
+            "title": "Jako každé šetření...",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_009.md",
@@ -147,6 +147,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "I",
             "children": [
               {
                 "filename": "zprava_o_mistech_010.md",
@@ -158,8 +159,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1/ Cesta ven"
+                "title": "1/ Cesta ven",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_011.md",
@@ -171,8 +172,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2/ Residence"
+                "title": "2/ Residence",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_012.md",
@@ -184,8 +185,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3/ Území"
+                "title": "3/ Území",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_013.md",
@@ -197,11 +198,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4/ Panství"
+                "title": "4/ Panství",
+                "children": []
               }
-            ],
-            "title": "I"
+            ]
           },
           {
             "filename": "zprava_o_mistech_014.md",
@@ -213,6 +213,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "II",
             "children": [
               {
                 "filename": "zprava_o_mistech_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5/ Tajná Plzeň…"
+                "title": "5/ Tajná Plzeň…",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6/ …čili cesta kolem ničeho"
+                "title": "6/ …čili cesta kolem ničeho",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_017.md",
@@ -250,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7/ Do Ameriky"
+                "title": "7/ Do Ameriky",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_018.md",
@@ -263,11 +264,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8/ O skrytém životě maket"
+                "title": "8/ O skrytém životě maket",
+                "children": []
               }
-            ],
-            "title": "II"
+            ]
           },
           {
             "filename": "zprava_o_mistech_019.md",
@@ -279,6 +279,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "III",
             "children": [
               {
                 "filename": "zprava_o_mistech_020.md",
@@ -302,8 +303,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9/ Místa bez kontur"
+                "title": "9/ Místa bez kontur",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_022.md",
@@ -315,8 +316,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10/ Paříž"
+                "title": "10/ Paříž",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_023.md",
@@ -328,8 +329,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11/ Vyjet"
+                "title": "11/ Vyjet",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_024.md",
@@ -341,8 +342,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12/ Fasáda"
+                "title": "12/ Fasáda",
+                "children": []
               },
               {
                 "filename": "zprava_o_mistech_025.md",
@@ -354,11 +355,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "P. S."
+                "title": "P. S.",
+                "children": []
               }
-            ],
-            "title": "III"
+            ]
           },
           {
             "filename": "zprava_o_mistech_026.md",
@@ -370,8 +370,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DOKUMENTY"
+            "title": "DOKUMENTY",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_027.md",
@@ -382,9 +382,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "V panství bodláků I"
+            "hiddenTitle": false,
+            "title": "V panství bodláků I",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_028.md",
@@ -395,9 +395,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "V panství bodláků II"
+            "hiddenTitle": false,
+            "title": "V panství bodláků II",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_029.md",
@@ -409,8 +409,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Návštěva v rue Montmartre"
+            "title": "Návštěva v rue Montmartre",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_030.md",
@@ -422,8 +422,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sen z 30. dubna"
+            "title": "Sen z 30. dubna",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_031.md",
@@ -435,8 +435,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rue Montmartre po roce"
+            "title": "Rue Montmartre po roce",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_032.md",
@@ -448,8 +448,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka "
+            "title": "Ediční poznámka ",
+            "children": []
           },
           {
             "filename": "zprava_o_mistech_033.md",
@@ -851,6 +851,6 @@
       "user": "books-are-next",
       "repo": "kral-zprava-o-mistech"
     },
-    "generatedAt": 1655631924534
+    "generatedAt": 1655633191533
   }
 }
