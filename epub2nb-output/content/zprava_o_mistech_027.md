@@ -1,11 +1,10 @@
 ---
-title: ''
+title: "V\_panství bodláků I"
+hiddenTitle: true
 contentType: prose
 ---
 
 <section>
-
-V panství bodláků I
 
 _V panství bodláků v hádankovitých houštinách  
 v jeskyních dávných pocitů strnulých do ticha  

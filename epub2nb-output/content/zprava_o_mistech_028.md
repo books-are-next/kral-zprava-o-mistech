@@ -1,11 +1,10 @@
 ---
-title: ''
+title: "V\_panství bodláků II"
+hiddenTitle: true
 contentType: prose
 ---
 
 <section>
-
-V panství bodláků II
 
 _Těsně před tím než čelo cvrnkne do ostnatého drátu  
 a ten se v něm rozechvěje jako stříbrná vráska  

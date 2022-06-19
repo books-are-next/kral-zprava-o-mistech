@@ -1,0 +1,655 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Zpráva o místech",
+  "author": "Petr Král",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kral-zprava-o-mistech-e22371d",
+  "revision": "e22371d",
+  "readingOrder": [
+    "promo.html",
+    "zprava_o_mistech_005.html",
+    "zprava_o_mistech_006.html",
+    "zprava_o_mistech_007.html",
+    "zprava_o_mistech_008.html",
+    "zprava_o_mistech_009.html",
+    "zprava_o_mistech_010.html",
+    "zprava_o_mistech_011.html",
+    "zprava_o_mistech_012.html",
+    "zprava_o_mistech_013.html",
+    "zprava_o_mistech_014.html",
+    "zprava_o_mistech_015.html",
+    "zprava_o_mistech_016.html",
+    "zprava_o_mistech_017.html",
+    "zprava_o_mistech_018.html",
+    "zprava_o_mistech_019.html",
+    "zprava_o_mistech_020.html",
+    "zprava_o_mistech_021.html",
+    "zprava_o_mistech_022.html",
+    "zprava_o_mistech_023.html",
+    "zprava_o_mistech_024.html",
+    "zprava_o_mistech_025.html",
+    "zprava_o_mistech_026.html",
+    "zprava_o_mistech_027.html",
+    "zprava_o_mistech_028.html",
+    "zprava_o_mistech_029.html",
+    "zprava_o_mistech_030.html",
+    "zprava_o_mistech_031.html",
+    "zprava_o_mistech_032.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jun 19 2022 09:46:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655632007273
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zprava_o_mistech_005.html",
+      "toc": []
+    },
+    {
+      "title": "Zpráva o místech",
+      "file": "zprava_o_mistech_005.html",
+      "words": 15,
+      "chars": 106,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zprava_o_mistech_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpráva o místech",
+      "file": "zprava_o_mistech_006.html",
+      "words": 3,
+      "chars": 24,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zprava_o_mistech_005.html",
+      "next": "zprava_o_mistech_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpráva o místech",
+      "file": "zprava_o_mistech_007.html",
+      "words": 24,
+      "chars": 148,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zprava_o_mistech_006.html",
+      "next": "zprava_o_mistech_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpráva o místech",
+      "file": "zprava_o_mistech_008.html",
+      "words": 359,
+      "chars": 2153,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zprava_o_mistech_007.html",
+      "next": "zprava_o_mistech_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "zprava_o_mistech_009.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zprava_o_mistech_008.html",
+      "next": "zprava_o_mistech_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1/ Cesta ven",
+      "file": "zprava_o_mistech_010.html",
+      "words": 1280,
+      "chars": 7896,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zprava_o_mistech_009.html",
+      "next": "zprava_o_mistech_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1/ Cesta ven",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2/ Residence",
+      "file": "zprava_o_mistech_011.html",
+      "words": 905,
+      "chars": 5647,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zprava_o_mistech_010.html",
+      "next": "zprava_o_mistech_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2/ Residence",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3/ Území",
+      "file": "zprava_o_mistech_012.html",
+      "words": 2028,
+      "chars": 12437,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zprava_o_mistech_011.html",
+      "next": "zprava_o_mistech_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3/ Území",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4/ Panství",
+      "file": "zprava_o_mistech_013.html",
+      "words": 1044,
+      "chars": 6507,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zprava_o_mistech_012.html",
+      "next": "zprava_o_mistech_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4/ Panství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "zprava_o_mistech_014.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zprava_o_mistech_013.html",
+      "next": "zprava_o_mistech_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5/ Tajná Plzeň…",
+      "file": "zprava_o_mistech_015.html",
+      "words": 3288,
+      "chars": 20772,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zprava_o_mistech_014.html",
+      "next": "zprava_o_mistech_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5/ Tajná Plzeň…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6/ …čili cesta kolem ničeho",
+      "file": "zprava_o_mistech_016.html",
+      "words": 4372,
+      "chars": 27302,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zprava_o_mistech_015.html",
+      "next": "zprava_o_mistech_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6/ …čili cesta kolem ničeho",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7/ Do Ameriky",
+      "file": "zprava_o_mistech_017.html",
+      "words": 4068,
+      "chars": 25287,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zprava_o_mistech_016.html",
+      "next": "zprava_o_mistech_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7/ Do Ameriky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8/ O skrytém životě maket",
+      "file": "zprava_o_mistech_018.html",
+      "words": 3286,
+      "chars": 20812,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zprava_o_mistech_017.html",
+      "next": "zprava_o_mistech_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8/ O skrytém životě maket",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "zprava_o_mistech_019.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zprava_o_mistech_018.html",
+      "next": "zprava_o_mistech_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpráva o místech",
+      "file": "zprava_o_mistech_020.html",
+      "words": 15,
+      "chars": 90,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zprava_o_mistech_019.html",
+      "next": "zprava_o_mistech_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9/ Místa bez kontur",
+      "file": "zprava_o_mistech_021.html",
+      "words": 3278,
+      "chars": 20336,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zprava_o_mistech_020.html",
+      "next": "zprava_o_mistech_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9/ Místa bez kontur",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10/ Paříž",
+      "file": "zprava_o_mistech_022.html",
+      "words": 3472,
+      "chars": 21276,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zprava_o_mistech_021.html",
+      "next": "zprava_o_mistech_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10/ Paříž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11/ Vyjet",
+      "file": "zprava_o_mistech_023.html",
+      "words": 2374,
+      "chars": 14594,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zprava_o_mistech_022.html",
+      "next": "zprava_o_mistech_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11/ Vyjet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12/ Fasáda",
+      "file": "zprava_o_mistech_024.html",
+      "words": 8400,
+      "chars": 53187,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zprava_o_mistech_023.html",
+      "next": "zprava_o_mistech_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12/ Fasáda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "P. S.",
+      "file": "zprava_o_mistech_025.html",
+      "words": 2795,
+      "chars": 17140,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zprava_o_mistech_024.html",
+      "next": "zprava_o_mistech_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "P. S.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOKUMENTY",
+      "file": "zprava_o_mistech_026.html",
+      "words": 86,
+      "chars": 504,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zprava_o_mistech_025.html",
+      "next": "zprava_o_mistech_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOKUMENTY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V panství bodláků I",
+      "file": "zprava_o_mistech_027.html",
+      "words": 331,
+      "chars": 2005,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zprava_o_mistech_026.html",
+      "next": "zprava_o_mistech_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V panství bodláků I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V panství bodláků II",
+      "file": "zprava_o_mistech_028.html",
+      "words": 498,
+      "chars": 2794,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zprava_o_mistech_027.html",
+      "next": "zprava_o_mistech_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V panství bodláků II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návštěva v rue Montmartre",
+      "file": "zprava_o_mistech_029.html",
+      "words": 2679,
+      "chars": 16487,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zprava_o_mistech_028.html",
+      "next": "zprava_o_mistech_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návštěva v rue Montmartre",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen z 30. dubna",
+      "file": "zprava_o_mistech_030.html",
+      "words": 1491,
+      "chars": 9018,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zprava_o_mistech_029.html",
+      "next": "zprava_o_mistech_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen z 30. dubna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rue Montmartre po roce",
+      "file": "zprava_o_mistech_031.html",
+      "words": 1295,
+      "chars": 7907,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zprava_o_mistech_030.html",
+      "next": "zprava_o_mistech_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rue Montmartre po roce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "zprava_o_mistech_032.html",
+      "words": 57,
+      "chars": 422,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zprava_o_mistech_031.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 143,
+      "chars": 908,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "zprava_o_mistech_032.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 47596,
+      "chars": 295801,
+      "ideas": 543
+    },
+    "chapters": {
+      "words": 47446,
+      "chars": 294857,
+      "ideas": 522
+    }
+  }
+}
