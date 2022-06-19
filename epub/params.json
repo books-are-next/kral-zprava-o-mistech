@@ -1,1 +1,857 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Zpráva o místech",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Petr Král",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-18T00:00:00.000Z",
+      "contentType": "prose",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nMLP_uroven2_basne_SIRSI",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "zprava_o_mistech_001.md",
+            "xhtml": "zprava_o_mistech_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zprava_o_mistech_002.md",
+            "xhtml": "zprava_o_mistech_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zprava_o_mistech_003.md",
+            "xhtml": "zprava_o_mistech_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zprava_o_mistech_004.md",
+            "xhtml": "zprava_o_mistech_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zprava_o_mistech_005.md",
+            "xhtml": "zprava_o_mistech_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zprava_o_mistech_006.md",
+            "xhtml": "zprava_o_mistech_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
+          },
+          {
+            "filename": "zprava_o_mistech_007.md",
+            "xhtml": "zprava_o_mistech_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
+          },
+          {
+            "filename": "zprava_o_mistech_008.md",
+            "xhtml": "zprava_o_mistech_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jako každé šetření..."
+          },
+          {
+            "filename": "zprava_o_mistech_009.md",
+            "xhtml": "zprava_o_mistech_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "zprava_o_mistech_010.md",
+                "xhtml": "zprava_o_mistech_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "1/ Cesta ven"
+              },
+              {
+                "filename": "zprava_o_mistech_011.md",
+                "xhtml": "zprava_o_mistech_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "2/ Residence"
+              },
+              {
+                "filename": "zprava_o_mistech_012.md",
+                "xhtml": "zprava_o_mistech_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "3/ Území"
+              },
+              {
+                "filename": "zprava_o_mistech_013.md",
+                "xhtml": "zprava_o_mistech_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "4/ Panství"
+              }
+            ],
+            "title": "I"
+          },
+          {
+            "filename": "zprava_o_mistech_014.md",
+            "xhtml": "zprava_o_mistech_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "zprava_o_mistech_015.md",
+                "xhtml": "zprava_o_mistech_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "5/ Tajná Plzeň…"
+              },
+              {
+                "filename": "zprava_o_mistech_016.md",
+                "xhtml": "zprava_o_mistech_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "6/ …čili cesta kolem ničeho"
+              },
+              {
+                "filename": "zprava_o_mistech_017.md",
+                "xhtml": "zprava_o_mistech_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "7/ Do Ameriky"
+              },
+              {
+                "filename": "zprava_o_mistech_018.md",
+                "xhtml": "zprava_o_mistech_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "8/ O skrytém životě maket"
+              }
+            ],
+            "title": "II"
+          },
+          {
+            "filename": "zprava_o_mistech_019.md",
+            "xhtml": "zprava_o_mistech_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "zprava_o_mistech_020.md",
+                "xhtml": "zprava_o_mistech_020.xhtml",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "zprava_o_mistech_021.md",
+                "xhtml": "zprava_o_mistech_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "9/ Místa bez kontur"
+              },
+              {
+                "filename": "zprava_o_mistech_022.md",
+                "xhtml": "zprava_o_mistech_022.xhtml",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "10/ Paříž"
+              },
+              {
+                "filename": "zprava_o_mistech_023.md",
+                "xhtml": "zprava_o_mistech_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "11/ Vyjet"
+              },
+              {
+                "filename": "zprava_o_mistech_024.md",
+                "xhtml": "zprava_o_mistech_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "12/ Fasáda"
+              },
+              {
+                "filename": "zprava_o_mistech_025.md",
+                "xhtml": "zprava_o_mistech_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "P. S."
+              }
+            ],
+            "title": "III"
+          },
+          {
+            "filename": "zprava_o_mistech_026.md",
+            "xhtml": "zprava_o_mistech_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DOKUMENTY"
+          },
+          {
+            "filename": "zprava_o_mistech_027.md",
+            "xhtml": "zprava_o_mistech_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "V panství bodláků I"
+          },
+          {
+            "filename": "zprava_o_mistech_028.md",
+            "xhtml": "zprava_o_mistech_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "V panství bodláků II"
+          },
+          {
+            "filename": "zprava_o_mistech_029.md",
+            "xhtml": "zprava_o_mistech_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Návštěva v rue Montmartre"
+          },
+          {
+            "filename": "zprava_o_mistech_030.md",
+            "xhtml": "zprava_o_mistech_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sen z 30. dubna"
+          },
+          {
+            "filename": "zprava_o_mistech_031.md",
+            "xhtml": "zprava_o_mistech_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rue Montmartre po roce"
+          },
+          {
+            "filename": "zprava_o_mistech_032.md",
+            "xhtml": "zprava_o_mistech_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ediční poznámka "
+          },
+          {
+            "filename": "zprava_o_mistech_033.md",
+            "xhtml": "zprava_o_mistech_033.xhtml",
+            "id": 32,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Zpráva o místech",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Petr Král",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-18T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_001.md",
+        "xhtml": "zprava_o_mistech_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_002.md",
+        "xhtml": "zprava_o_mistech_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_003.md",
+        "xhtml": "zprava_o_mistech_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_004.md",
+        "xhtml": "zprava_o_mistech_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_005.md",
+        "xhtml": "zprava_o_mistech_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_006.md",
+        "xhtml": "zprava_o_mistech_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_007.md",
+        "xhtml": "zprava_o_mistech_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_008.md",
+        "xhtml": "zprava_o_mistech_008.xhtml"
+      },
+      {
+        "titleSuggest": "I",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_009.md",
+        "xhtml": "zprava_o_mistech_009.xhtml"
+      },
+      {
+        "titleSuggest": "1/ Cesta ven",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_010.md",
+        "xhtml": "zprava_o_mistech_010.xhtml"
+      },
+      {
+        "titleSuggest": "2/ Residence",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_011.md",
+        "xhtml": "zprava_o_mistech_011.xhtml"
+      },
+      {
+        "titleSuggest": "3/ Území",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_012.md",
+        "xhtml": "zprava_o_mistech_012.xhtml"
+      },
+      {
+        "titleSuggest": "4/ Panství",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_013.md",
+        "xhtml": "zprava_o_mistech_013.xhtml"
+      },
+      {
+        "titleSuggest": "II",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_014.md",
+        "xhtml": "zprava_o_mistech_014.xhtml"
+      },
+      {
+        "titleSuggest": "5/ Tajná Plzeň…",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_015.md",
+        "xhtml": "zprava_o_mistech_015.xhtml"
+      },
+      {
+        "titleSuggest": "6/ …čili cesta kolem ničeho",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_016.md",
+        "xhtml": "zprava_o_mistech_016.xhtml"
+      },
+      {
+        "titleSuggest": "7/ Do Ameriky",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_017.md",
+        "xhtml": "zprava_o_mistech_017.xhtml"
+      },
+      {
+        "titleSuggest": "8/ O skrytém životě maket",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_018.md",
+        "xhtml": "zprava_o_mistech_018.xhtml"
+      },
+      {
+        "titleSuggest": "III",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_019.md",
+        "xhtml": "zprava_o_mistech_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_020.md",
+        "xhtml": "zprava_o_mistech_020.xhtml"
+      },
+      {
+        "titleSuggest": "9/ Místa bez kontur",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_021.md",
+        "xhtml": "zprava_o_mistech_021.xhtml"
+      },
+      {
+        "titleSuggest": "10/ Paříž",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_022.md",
+        "xhtml": "zprava_o_mistech_022.xhtml"
+      },
+      {
+        "titleSuggest": "11/ Vyjet",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_023.md",
+        "xhtml": "zprava_o_mistech_023.xhtml"
+      },
+      {
+        "titleSuggest": "12/ Fasáda",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_024.md",
+        "xhtml": "zprava_o_mistech_024.xhtml"
+      },
+      {
+        "titleSuggest": "P\\. S\\.",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_025.md",
+        "xhtml": "zprava_o_mistech_025.xhtml"
+      },
+      {
+        "titleSuggest": "DOKUMENTY",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_026.md",
+        "xhtml": "zprava_o_mistech_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_027.md",
+        "xhtml": "zprava_o_mistech_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_028.md",
+        "xhtml": "zprava_o_mistech_028.xhtml"
+      },
+      {
+        "titleSuggest": "Návštěva v rue Montmartre",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_029.md",
+        "xhtml": "zprava_o_mistech_029.xhtml"
+      },
+      {
+        "titleSuggest": "Sen z 30\\. dubna",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_030.md",
+        "xhtml": "zprava_o_mistech_030.xhtml"
+      },
+      {
+        "titleSuggest": "Rue Montmartre po roce",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_031.md",
+        "xhtml": "zprava_o_mistech_031.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka ",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_032.md",
+        "xhtml": "zprava_o_mistech_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zprava_o_mistech_033.md",
+        "xhtml": "zprava_o_mistech_033.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/005.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/006.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/007.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/008.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/009.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/010.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/011.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/012.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/013.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/014.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/015.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/016.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_zprava_o_mistechl.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-10",
+      "CharOverride-2",
+      "CharOverride-3",
+      "CharOverride-5",
+      "CharOverride-6",
+      "CharOverride-7",
+      "CharOverride-8",
+      "CharOverride-9",
+      "FAKE_nadpis",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_citat_autor",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_hvezdicky",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_obrazky_-12-0-",
+      "MLP_obrazky_-12-12-",
+      "MLP_popis_obrazku_stred",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven2_basne_SIRSI",
+      "MLP_uroven2_kapitola",
+      "MLP_venovani",
+      "MLP_verse_-0-12-_SIRSI",
+      "MLP_verse_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-10",
+      "_idGenObjectAttribute-11",
+      "_idGenObjectAttribute-12",
+      "_idGenObjectAttribute-13",
+      "_idGenObjectAttribute-14",
+      "_idGenObjectAttribute-15",
+      "_idGenObjectAttribute-16",
+      "_idGenObjectAttribute-17",
+      "_idGenObjectAttribute-18",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectAttribute-4",
+      "_idGenObjectAttribute-5",
+      "_idGenObjectAttribute-6",
+      "_idGenObjectAttribute-7",
+      "_idGenObjectAttribute-8",
+      "_idGenObjectAttribute-9",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kral-zprava-o-mistech"
+    },
+    "generatedAt": 1654948521836
+  }
+}
