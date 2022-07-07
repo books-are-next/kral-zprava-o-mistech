@@ -43,7 +43,7 @@ readingOrder:
   - zprava_o_mistech_030.html
   - zprava_o_mistech_031.html
   - zprava_o_mistech_032.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
