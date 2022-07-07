@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-zprava-o-mistech-84be2ec",
-  "revision": "84be2ec",
+  "identifier": "kral-zprava-o-mistech-9d0c16b",
+  "revision": "9d0c16b",
   "readingOrder": [
     "promo.html",
     "zprava_o_mistech_005.html",
@@ -40,11 +40,11 @@
     "zprava_o_mistech_030.html",
     "zprava_o_mistech_031.html",
     "zprava_o_mistech_032.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:11:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979105401
+    "date": "Thu Jul 07 2022 08:32:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182747084
   },
   "documents": [
     {
@@ -313,7 +313,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "7/ Do Ameriky",
+          "name": "7/ Do Ameriky",
           "id": null,
           "children": []
         }
@@ -593,7 +593,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rue Montmartre po roce",
+          "name": "Rue Montmartre po roce",
           "id": null,
           "children": []
         }
@@ -608,7 +608,7 @@
       "role": "chapter",
       "order": 28,
       "prev": "zprava_o_mistech_031.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -621,11 +621,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 143,
-      "chars": 908,
+      "chars": 907,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "zprava_o_mistech_032.html",
       "next": null,
@@ -642,8 +642,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47592,
-      "chars": 295797,
+      "words": 47591,
+      "chars": 295801,
       "ideas": 543
     },
     "chapters": {
