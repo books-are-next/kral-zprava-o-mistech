@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-zprava-o-mistech-ac83b75",
-  "revision": "ac83b75",
+  "identifier": "kral-zprava-o-mistech-0bd33e5",
+  "revision": "0bd33e5",
   "readingOrder": [
     "promo.html",
     "zprava_o_mistech_005.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188114362
+    "date": "Thu Jul 21 2022 14:38:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414290857
   },
   "documents": [
     {
@@ -623,7 +623,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 907,
+      "chars": 908,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -642,8 +642,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47591,
-      "chars": 295801,
+      "words": 47592,
+      "chars": 295797,
       "ideas": 543
     },
     "chapters": {
