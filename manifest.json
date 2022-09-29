@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-zprava-o-mistech-0bd33e5",
-  "revision": "0bd33e5",
+  "identifier": "kral-zprava-o-mistech-2d1529a",
+  "revision": "2d1529a",
   "readingOrder": [
     "promo.html",
     "zprava_o_mistech_005.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:38:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414290857
+    "date": "Thu Sep 29 2022 21:27:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486857733
   },
   "documents": [
     {

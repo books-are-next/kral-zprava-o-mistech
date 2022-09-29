@@ -41,7 +41,7 @@ Když se pak od prvního nároží blíží znovu k výčepu, psím vínem obro
 
 Přísnost „veřejné“, do ulice obrácené fasády domu s výčepem nadlehčuje aspoň jiskření drobných úlomků slídy, které probleskují z omítky za slunečních dní. I jejich třpyt prodlouží nečekaná ozvěna, to ráno, kdy výzkumník za toulky Starým městem objeví podivuhodný dům posetý lesklými _knoflíky._ Také tentokrát v tom vidí povzbuzení a důkaz, znamení, která loví za chůze svým územím, mu nepochybně značí cestu do světa a k jeho pokladům.
 
-Dál za výčepem, před vilou, pod jejímž ozdobným štítem visí medajlonek reliefu, cítí nicméně jisté rozpaky. Relief lne k průčelí jako kamenná pečeť, žena zobrazená na něm z profilu a s vláčně, ale jaksi pokorně předpaženýma rukama působí současně jako výzva a jako odmítnutí. Na rubu průčelí, uvnitř domu, vede možná celý tajný život; skrývá tam živou a horkou půli těla, která – jak průzkumník naznačí v krátké básni[\*](./resources/undefined) – uvádí do pohybu zvláštní mechanismus spojený s jejími údy složitou, slastně rafinovanou soustavou hedvábných nití. Zároveň nicméně ten život přísně zapírá, tají ho za svou kamennou nehybností svíranou ze všech stran rámem medajlonku. Kdykoli ji hrdina vidí, myslí na to, co se říká o jiné skrčené dámě, vyryté na líci korunových mincí. Není i žena v průčelí, jako ta celonárodní kráska, nucena trvale klečet proto, že těsný okolní prostor jí nedovoluje vstát?
+Dál za výčepem, před vilou, pod jejímž ozdobným štítem visí medajlonek reliefu, cítí nicméně jisté rozpaky. Relief lne k průčelí jako kamenná pečeť, žena zobrazená na něm z profilu a s vláčně, ale jaksi pokorně předpaženýma rukama působí současně jako výzva a jako odmítnutí. Na rubu průčelí, uvnitř domu, vede možná celý tajný život; skrývá tam živou a horkou půli těla, která – jak průzkumník naznačí v krátké básni[\*](../Text/zprava_o_mistech_012.xhtml#footnote-000) – uvádí do pohybu zvláštní mechanismus spojený s jejími údy složitou, slastně rafinovanou soustavou hedvábných nití. Zároveň nicméně ten život přísně zapírá, tají ho za svou kamennou nehybností svíranou ze všech stran rámem medajlonku. Kdykoli ji hrdina vidí, myslí na to, co se říká o jiné skrčené dámě, vyryté na líci korunových mincí. Není i žena v průčelí, jako ta celonárodní kráska, nucena trvale klečet proto, že těsný okolní prostor jí nedovoluje vstát?
 
 * * *
 
@@ -61,6 +61,6 @@ Prozatím nicméně pokračuje v chůzi. Po tom, co pod železným víkem zahl�
 
 * * *
 
-_[\*](./resources/undefined) Viz přílohu na konci svazku._
+_[\*](../Text/zprava_o_mistech_012.xhtml#footnote-000-backlink) Viz přílohu na konci svazku._
 
 </section>
