@@ -9,7 +9,7 @@ _Souřadnice_
 
 K návštěvě došlo v sobotu 2. května, mezi jednou a druhou odpoledne. Fotografie, jimiž jsem chtěl tento záznam doprovodit, jsem pořídil – v téže denní době – až 5. května, abych předem neomezil volnost svého pohledu.
 
-Náhoda mi jméno ulice označila 1. května, ústy kamaráda, který mi navrhl zajít na večeři do místní restaurace – společně s dalšími českými přáteli, kteří emigrovali do Basileje a projížděli právě Paříží na cestě do Londýna. Stojí za zmínku, že kamarád se spletl: restaurace se ve skutečnosti nachází v rue _Faubourg_ Montmartre, kde kdysi pobýval také Lautréamont[\*](./resources/undefined). Spolu s „objek­tivní náhodou“ tak o volbě „mé“ ulice rozhodl i chybný výkon.
+Náhoda mi jméno ulice označila 1. května, ústy kamaráda, který mi navrhl zajít na večeři do místní restaurace – společně s dalšími českými přáteli, kteří emigrovali do Basileje a projížděli právě Paříží na cestě do Londýna. Stojí za zmínku, že kamarád se spletl: restaurace se ve skutečnosti nachází v rue _Faubourg_ Montmartre, kde kdysi pobýval také Lautréamont[\*](../Text/zprava_o_mistech_029.xhtml#footnote-012). Spolu s „objek­tivní náhodou“ tak o volbě „mé“ ulice rozhodl i chybný výkon.
 
 </section>
 
@@ -69,7 +69,7 @@ _Závěry_
 
 Především chci zdůraznit, že jsem v ulici našel řadu ozvěn svého snu z poslední dubnové noci – důkaz, že šlo o „velký“ sen, mimořádně významný i pro můj bdělý život. Smysl dotyčných ozvěn lze číst ve třech různých rovinách, stejně jako obrazy snu.
 
-_Rovina Nad-já:_ na této rovině jde o klasicky „oidipský“ sen o otci. V ulici se mi otcovské „imago“ vnutí skrz obchod otec eram, ostatně jediný toho jména v Paříži[\*\*](./resources/undefined). Jsou tu ale další znamení: tak skutečnost, že přítel, který mi rue Montmartre nevědomky „zadal“ k průzkumu, to vlastně udělal proto, aby mě neposlal do ulice obývané kdysi Lautréamontem – zvlášť příkladným „opěvatelem“ otcovraždy. Za zmínku stojí i to, že mě otec Eram čeká až ve druhé části ulice, tedy poblíž jejího „pramene“; omylem jsem totiž ulici scházel, to, co jsem měl za konec, byl její začátek. Procházka zkrátka byla i symbolickým sestupem do dětství a jeho prehistorie.
+_Rovina Nad-já:_ na této rovině jde o klasicky „oidipský“ sen o otci. V ulici se mi otcovské „imago“ vnutí skrz obchod otec eram, ostatně jediný toho jména v Paříži[\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-011). Jsou tu ale další znamení: tak skutečnost, že přítel, který mi rue Montmartre nevědomky „zadal“ k průzkumu, to vlastně udělal proto, aby mě neposlal do ulice obývané kdysi Lautréamontem – zvlášť příkladným „opěvatelem“ otcovraždy. Za zmínku stojí i to, že mě otec Eram čeká až ve druhé části ulice, tedy poblíž jejího „pramene“; omylem jsem totiž ulici scházel, to, co jsem měl za konec, byl její začátek. Procházka zkrátka byla i symbolickým sestupem do dětství a jeho prehistorie.
 
 _Rovina Já:_ opakované narážky na různé země a národnosti ukazují, že jsem si pořád – co exulant – nezvolil definitivně zemi svého příštího pobytu. Obráží se to zejména ve dvojici barev, červené a modré, která mě provází během celé výpravy. Také ve snu dostaly barvy „osudný“ význam, když se v něm náhle rozehrály na nebi nejpodivuhodnější škály červení a modří, jaké jsem kdy viděl. Podívaná jistě odkazovala zároveň k Francii a k Československu (jak potvrzují i další momenty snu), také ale k Americe: nebe ze snu bylo přímým prodloužením barevné fotografie jakéhosi údolí v Nevadě, pořízené ve světle zapadajícího slunce a již jsem den předtím obdivoval v prospektu, který jsem pak dal „Georgesovi“ – tomu, pro nějž je Amerika zaslíbenou zemí. Mimo jiné to nutí ptát se po smyslu goldschmidtova krámu, jenž – neprodyšně zavřený – se ke mně choval tak zdrženlivě. Znamená to varování proti Americe, jak si věc vzápětí vykládám?
 
@@ -77,7 +77,7 @@ Takové otázky jsou jistě pořád poplatné tradičně surrealistickému, čis
 
 Mezitím jednají aspoň jiní: v úterý 5. května, kdy se do rue Montmartre vracím s fotoaparátem, mi telefonuje Georges a sděluje mi, že vzhledem k tamějšímu systému vojenské služby do Ameriky neodjede. To, co se sám dovídám o válce v Kambodži, potom všechno dovrší; přiměje mě to odmítnout spolupráci s Američany financovaným rádiem, díky níž bych si byl trochu „zajistil budoucnost“ a zároveň bych zpřetrhal poslední pouta s Československem; mám tak dojem, že jsem nejenom sám skoncoval se svým „americkým snem“, ale také se víceméně rozhodl pro návrat do Prahy. Jedno je jisté: nebudu u toho, až v příštích večerech velký motýl ticha rozprostře po newyorských střechách svá křídla z popílku, žíhaná posledními červenomodrými záblesky. (Krátce po svém rozhodnutí padnu v časopisu na Daliho plakáty pro francouzské železnice – posedlost odjezdem trvá, to se ví –, jejichž společným motivem je právě motýl.)
 
-Celý ten příběh Ameriky, zámoří, cizích zemí, cest a bloudění (Eram) je jistě také spojený s předešlým „příběhem otce“: zaslíbená země, které se tu zříkám, je hlavně „Amerikou“ společenského úspěchu a patřičně zajištěného postavení, otcovských hodnot par excellence. I kdybych se byl nakrásně zmýlil v tom, s kým pro mě souvisí nepřístupný goldschmidt (zřejmě i nové ztělesnění potulného Ahasvera[\*\*\*](./resources/undefined)), i kdyby mě na stejnojmenné řeznictví nebyl upozornil Georges (sám napůl Žid), ale Pavlův švagr, nepřestal by mě krám varovat před cestou za moře; Amerika by se jen změnila v Australii, kam pro změnu odjíždí švagr – jak mi řekl v předvečer snu – a kde také (a především) žije už léta v emigraci můj legitimní otec[\*\*\*\*](./resources/undefined).
+Celý ten příběh Ameriky, zámoří, cizích zemí, cest a bloudění (Eram) je jistě také spojený s předešlým „příběhem otce“: zaslíbená země, které se tu zříkám, je hlavně „Amerikou“ společenského úspěchu a patřičně zajištěného postavení, otcovských hodnot par excellence. I kdybych se byl nakrásně zmýlil v tom, s kým pro mě souvisí nepřístupný goldschmidt (zřejmě i nové ztělesnění potulného Ahasvera[\*\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-010)), i kdyby mě na stejnojmenné řeznictví nebyl upozornil Georges (sám napůl Žid), ale Pavlův švagr, nepřestal by mě krám varovat před cestou za moře; Amerika by se jen změnila v Australii, kam pro změnu odjíždí švagr – jak mi řekl v předvečer snu – a kde také (a především) žije už léta v emigraci můj legitimní otec[\*\*\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-009).
 
 Nejpevnější pouto mezi Amerikou a Otcem, zároveň přímé a temné, vznikne nicméně až dodatečně, díky dalšímu _činu_, k němuž se na základě dojmů z ulice odhodlám (což mě jistě z celé procházky také nejvíc těší). Když totiž krám otec eram objevím, rázem pochopím, že si tam musím koupit nové boty, které ostatně dost naléhavě potřebuju. Udělám to v totéž úterý, kdy v ulici fotografuji, a získám tak kromě bot i papírový sáček s nápisem, který ještě zdůrazní komickou stránku věci: otec votre chausseur, otec – váš obuvník. A protože to tedy je otec, kdo nás obouvá a od koho si, jak jinak, jen půjčujeme všechny své skvoucí křápy – a protože je ke všemu nablízku taky kostel (Svatý Eustach), dlouho se nerozmýšlím: třebaže je úterý, navléknu si nové boty hned a právě tam, v kostele, kde zároveň nechám ty obnošené a vrátím je tak rovnou hlavnímu dodavateli, společnému Otci nás všech… Jen pár dní nato pak všechno naráz shrne znovunalezený verš mé staré básně: konec starým botám new yorku!
 
@@ -95,12 +95,12 @@ V _rovině Onoho_ by jistě bylo snadné převést můj „případ“ na strac
 
 * * *
 
-_[\*](./resources/undefined) Až dlouho po napsání tohoto záznamu zjistím, že Lautréamont bydlel přímo v domě, kde dotyčná restaurace sídlí._
+_[\*](../Text/zprava_o_mistech_029.xhtml#footnote-012-backlink) Až dlouho po napsání tohoto záznamu zjistím, že Lautréamont bydlel přímo v domě, kde dotyčná restaurace sídlí._
 
-_[\*\*](./resources/undefined) Jiné krámy téhož řetězu obchodů nesly pouze jméno ERAM, ten z rue Mont­martre zmizel krátce po tom, co jsem jej objevil._
+_[\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-011-backlink) Jiné krámy téhož řetězu obchodů nesly pouze jméno ERAM, ten z rue Mont­martre zmizel krátce po tom, co jsem jej objevil._
 
-_[\*\*\*](./resources/undefined) Jméno je rovněž příznačné svým vztahem ke zlatu (a k penězům), výsost­­né­mu symbolu „úspěchu“._
+_[\*\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-010-backlink) Jméno je rovněž příznačné svým vztahem ke zlatu (a k penězům), výsost­­né­mu symbolu „úspěchu“._
 
-_[\*\*\*\*](./resources/undefined) Teprve po letech se dovím, že ve skutečnosti odcestoval... do Ameriky._
+_[\*\*\*\*](../Text/zprava_o_mistech_029.xhtml#footnote-009-backlink) Teprve po letech se dovím, že ve skutečnosti odcestoval... do Ameriky._
 
 </section>
